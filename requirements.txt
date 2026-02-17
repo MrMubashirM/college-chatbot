@@ -4,5 +4,6 @@ langchain-community
 langchain-chroma
 langchain-text-splitters
 langchain-google-genai
+langchain-groq
 sentence-transformers
 chromadb

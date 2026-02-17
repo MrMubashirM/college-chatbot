@@ -1,20 +1,23 @@
 import streamlit as st
 import os
 
+# LangChain imports
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain_google_genai import ChatGoogleGenerativeAI   # <-- new import
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 
+# Groq LLM (instead of Gemini)
+from langchain_groq import ChatGroq
+
 # ----- Configuration -----
 DATA_PATH = "./data"
 CHROMA_PATH = "./chroma_db"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
-GEMINI_MODEL = "gemini-1.5-flash"          # fast & free tier
+GROQ_MODEL = "llama3-8b-8192"          # Free model, fast & reliable
 # -------------------------
 
 st.set_page_config(page_title="College Chatbot", page_icon="🎓")
@@ -50,13 +53,13 @@ def load_vector_store():
         )
     return vectorstore
 
-# --- Build LCEL Chain with Gemini ---
+# --- Build LCEL Chain with Groq ---
 @st.cache_resource
 def build_chain(_vectorstore):
-    # Use the API key from Streamlit secrets (we'll set this later)
-    llm = ChatGoogleGenerativeAI(
-        model=GEMINI_MODEL,
-        google_api_key=st.secrets["GOOGLE_API_KEY"],
+    # Use the Groq API key from Streamlit secrets
+    llm = ChatGroq(
+        groq_api_key=st.secrets["GROQ_API_KEY"],
+        model_name=GROQ_MODEL,
         temperature=0.3
     )
     retriever = _vectorstore.as_retriever(search_kwargs={"k": 3})
