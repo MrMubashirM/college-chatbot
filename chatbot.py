@@ -10,14 +10,14 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 
-# Groq LLM (instead of Gemini)
+# Groq LLM
 from langchain_groq import ChatGroq
 
 # ----- Configuration -----
 DATA_PATH = "./data"
 CHROMA_PATH = "./chroma_db"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
-GROQ_MODEL = "llama3-8b-8192"          # Free model, fast & reliable
+GROQ_MODEL = "mixtral-8x7b-32768"          # Active, fast model (use this or any from list)
 # -------------------------
 
 st.set_page_config(page_title="College Chatbot", page_icon="🎓")
