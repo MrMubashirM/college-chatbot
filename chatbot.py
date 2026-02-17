@@ -14,7 +14,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_groq import ChatGroq
 
 # ----- Configuration -----
-DATA_PATH = "./data"
+DATA_PATH = "./data"# final fix
 CHROMA_PATH = "./chroma_db"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 GROQ_MODEL = "mixtral-8x7b-32768"          # Active, fast model (use this or any from list)
