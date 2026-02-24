@@ -1,0 +1,328 @@
+Kings College of Engineering (KCE)
+Computer Science & Engineering
+About Department
+The M.E. Programme in Computer Science and Engineering widens the technical horizon of young engineering graduates. This programme covers advanced concepts in the areas of Mobile computing, Computer architecture, Advanced system software, Multimedia systems, Operating system design, software engineering methodologies and Computer networks.
+By acquiring knowledge, our students find placements in various IT industries that are involved in developing projects in the fields of System software, Application software, Automation software, Software testing, Embedded software, Multimedia software etc.
+Vision & Mission
+Vision
+To become globally competent in the field of computing by imparting quality education, reinforcing social values and establishing the sense of technical exploration in the learners.
+Mission
+To impart knowledge in Computer Science and Engineering by means of appropriate teaching and learning methodologies in the knowledge seekers and make them socially responsible.
+PEOs and POs
+View
+CSE DEPT PEOs and POs
+Scope & Job Oppourtunities
+Computer Science is a very vast discipline with plethora of opportunities. The programme trains the students of the basics and different facets of computer engineering. It comprises foundations of computer systems, computer architecture & organization, networking, the theory of computation, database systems, electronics, operating systems, programming and website designing, e-commerce & multimedia applications, principles of programming languages, software engineering, hardware engineering, etc.
+The professionals of CSE can be assigned as a computer programmer, data scientist, systems analyst, software developer, hardware engineer, IT consultant, system engineer, system designer, IT specialist, networking engineer, database administrator, web developer, mobility tester, e-commerce specialist, programmer, software tester, etc, and exercised various other job profiles in the private firms and top companies like TCS, Wipro, Microsoft, Google, Infosys, Accenture, HCL, Facebook, Cognizant, Adobe, Oracle, Sun Microsystems, Flipkart, IBM, etc.
+The professionals can mark their career in multiple domains like artificial intelligence, embedded systems, ethical hacking, wireless network, computer manufacturing, database systems, web applications, animation, computer graphics, scientific modeling, computational biology, video games development, mobile application development, data science, network administration, etc.
+Students also have an option of taking up GATE exam whose scorecard is appraised by various government organizations for recruitment. Computer engineers can also get numerous jobs.
+Value Added Course
+Laboratories
+Advanced Programming Lab
+DBMS & RDBMS Lab
+Conventional Programming Lab
+Unix Lab
+Multimedia & Image Processing Lab
+Internet Lab
+Peripherals & Interfacing Lab
+Hardware Maintenance Lab
+Software Development Lab
+Grid and Cloud Computing Lab
+Internet Security Lab
+Faculty Details
+Department of Computer Science & Engineering
+Achievements
+Students' Achievements
+Academic Year 2018-19 (Odd)
+Name
+Year
+Date of Participation
+Participated Event
+Organizing Institution
+Anbarasan R
+28.09.18
+Workshop
+Deepa N
+01.10.18
+Symposium
+SJCET
+Kannan M
+28.09.18
+Workshop
+Keerthana B
+01.10.18
+Symposium
+SJCET
+Nancy Priya A
+01.10.18
+Symposium
+SJCET
+Ponsharan V
+28.09.18
+Workshop
+Praveen K
+28.09.18
+Workshop
+Priyadharshini K
+01.10.18
+Symposium
+SJCET
+Vignesh B
+28.09.18
+Workshop
+Bharathvaj N
+01.10.18
+Symposium
+SJCET
+Edwin Raj K
+01.10.18
+Symposium
+SJCET
+Rakshnah Begum Ms
+01.10.18
+Symposium
+SJCET
+Sameena Farijiz M
+01.10.18
+Symposium
+SJCET
+Rakshnah Begum Ms
+12.10.18
+Symposium
+Sameena Farijiz M
+12.10.18
+Symposium
+Saranya V
+12.10.18
+Symposium
+Selvarani G
+12.10.18
+Symposium
+Suriyapriya P
+12.10.18
+Symposium
+Ananthapathma Priya A
+01.10.18
+Symposium
+SJCET
+Aarthy M
+30,31.08.18
+Conference
+PITS
+Abinaya R
+30,31.08.18
+Conference
+PITS
+Anandhi R
+30,31.08.18
+Conference
+PITS
+Anthalapriya A
+01.10.18
+Symposium
+SJCET
+Balachandar V
+10,11.08.18
+Symposium
+PITS
+Festus Devapriyan J D
+28.09.18
+Symposium
+ANNAI COLLEGE
+Jaqulin Diana A
+01.10.18
+Symposium
+SJCET
+Karthika P
+28.09.18
+Workshop
+Mohan Kumar S
+28.09.18
+Symposium
+ANNAI COLLEGE
+Pavitha C
+01.10.18
+Symposium
+SJCET
+Ragul R
+10,11.08.18
+Symposium
+PITS
+Sathya M
+28.09.18
+Workshop
+Sathya M
+01.10.18
+Symposium
+SJCET
+Shiyamala B
+01.10.18
+Symposium
+SJCET
+Shiyamala B
+30,31.08.18
+Conference
+PITS
+Sowmiya P
+30,31.08.18
+Conference
+PITS
+Swarnaprabaa P
+01.10.18
+Symposium
+SJCET
+Thenmozhi P
+30,31.08.18
+Conference
+PITS
+Vidhya A
+30,31.08.18
+Conference
+PITS
+Vipoosh V
+01.10.18
+Symposium
+SJCET
+Yamuna K
+01.10.18
+Symposium
+SJCET
+Vipoosh V
+30,31.08.18
+Conference
+PITS
+Buvaneshwari S
+30,31.08.18
+Conference
+PITS
+Events
+Clubs and Activities
+Code Club
+Envisaging the prerequisite of programming skills, Code club was initiated by the department.  It was formally inaugurated by the chief guest Dr.S.Baskaran, Vice Principal, Kuppam Engineering College, Andhra Pradesh, on 10.01.2020.
+Objectives:
+To enhance programming languages using advanced tools.
+To develop application-oriented projects.
+To provide students with the opportunity to express and develop ideas through coding.
+To create a project using Android software for improving real-time implementation.
+Office Bearers:
+Role
+Name
+Designation
+Chief Coordinator
+Dr. S. M. Uma
+HOD/CSE
+Staff Coordinators
+Dr. D. Sivakumar
+AP/CSE
+Mr. R. Sriram Kumar
+AP/CSE
+Students President
+E. Jeevitha
+IV/CSE
+N. Deepa
+IV/CSE
+Students Vice President
+P. Abirami
+III/CSE
+Students Coordinator
+K. Venkatesh Raghu
+IV/CSE
+K. Aishwarya
+III/CSE
+Multimedia Club
+Cultivating the programming and animation skills,  Multimedia club was  inaugurated by the chief guest Dr.S.Baskaran, Vice Principal, Kuppam Engineering College, Andhra Pradesh, on 10.1.2020.
+Objectives:
+To improve students' aesthetic skills through multimedia.
+To develop multimedia skills by pragmatically applying them on various projects.
+To demonstrate the use of animation, digitized sound, video control, and scanned images.
+Office Bearers:
+Role
+Name
+Designation
+Chief Coordinator
+Dr. S. M. Uma
+HOD/CSE
+Staff Coordinators
+Mr. S. Rajarajan
+AP/CSE
+Mr. M. Arun
+AP/CSE
+Students President
+M. Gunaseelan
+IV-CSE
+Students Vice President
+S. Ragul
+II-CSE
+Students Coordinator
+T. Selvarani
+IV-CSE
+K. Divakaran
+III-CSE
+Events Organized:
+S.No
+Event
+Date
+Academic Year 2019â2020 (Even Semester)
+Inauguration
+10.01.2020
+Basic Design Activity using Photoshop
+11.01.2020
+Basic Web Design Activity
+15.02.2020
+Resume Contest
+28.02.2020
+Mini Project Expo-Mâ20
+04.03.2020
+Academic Year 2020â2021 (Odd Semester)
+3D Animation using Computer Graphics
+19.12.2020
+Academic Year 2020â2021 (Even Semester)
+Webinar on Startups for IoT and AI
+02.03.2021
+Webinar on How to Prepare a Resume for a Job
+03.04.2021
+ECO Club
+ECO Club was inaugurated during the academic year 2010-11. The core aim of the ECO club is to make students more responsible towards the existing natural resources and to preserve its elegance intact so as to pass on this wonderful planet in the same way it was given to us by our ancestors.
+Vision:
+To make the students, a responsible care taker of the place where we live in by educating the need for conserving the natural resources.
+Objectives:
+To promote activities which make students understand the importance of biodiversity conservation for healthy well-being.
+To avoid plastic pollution on the Earth.
+To maintain cleanliness in and around the living place.
+To reduce electric power consumption with the motto: âA penny saved is a penny gained.â
+Office Bearers:
+Role
+Name
+Designation
+Chief Coordinator
+Dr. S. M. Uma
+HOD/CSE
+Staff Coordinator
+Mrs. G. Chandra Praba
+AP/CSE
+Student Members
+Mr. R. Vasudevan
+IV / CSE
+Ms. F. Shiny Roja
+IV / CSE
+Mr. E. Hariharan
+III / CSE
+Ms. J. Gayathri
+III / CSE
+Mr. K. Gopinath
+II / CSE
+Regulation
+View
+2021
+View
+2017
+Syllabus
+View
+2021
+View
+2017
+Facebook
+Instagram
+Youtube
+IEEE Sponsored International Conference on April 9th and 10th.
+Click here

@@ -1,0 +1,495 @@
+Kings College of Engineering (KCE)
+Electronics & Communication Engineering
+About Department
+The Department was established in the year 2001. The academic activities of the department encompass practically all major sub-disciplines of Electronics and Communication Engineering. The department offers B.E degree in Electronics and Communication Engineering with an intake of 120 students per year and M.E in VLSI Design. Department is an approved research centre for pursuing Ph.D. under Anna University, Chennai.
+The department is being driven jointly by dedicated staff and interested students towards achieving center of excellence on VLSI and Communication. Further, the department has been sanctioned with several research projects from government and non-government funding sectors namely, MC & IT-New Delhi, DRDO- New Delhi, AICTE- New Delhi, Texas Instruments-USA, TNSCST- Chennai and etc.
+International conference, Faculty Development Programmes, Value Added Courses, seminars, visiting faculty talks and etc., are organized periodically towards knowledge exchange and skilled human resource development under ECE community network. Department also conducts workshops and symposia regularly for improving the teaching and learning process. Society welfare programs are organized by the department at regular interval to make impact on its development and awareness.
+Students are exposed to best learning environment and provided with in-depth knowledge to make them competitive and industry ready.
+Vision & Mission
+Vision
+To produce technically competent, socially responsible Electronics and Communication Engineers with research insight.
+Mission
+Establishing learning environment and practicing advanced Electronics and Communication Engineering through effective teaching learning methodologies with ethical prospective.
+PEOs and POs
+View
+ECE DEPT PEOs and POs
+Scope & Job Oppourtunities
+Having a look at the career prospects, there is bound to be a huge demand for competent engineers in electronic industry to cope the demand in technology. The engineers are involved in sustaining cutting edge technology to stay ahead in competition.
+An electronic engineer can find a job in Consumer electronics manufacturing organization, Telecommunication & IT industries, Health care equipment manufacturing, Mobile communication (2G,3G,4G,5G), Internet technologies, Power Electronics, and other industries like steel, petroleum and chemical industry, directing control and testing production process. They may also work with computers and electronic equipment in the medical, manufacturing, industrial control, telecommunications, aeronautical and military fields.
+Value Added Course
+Laboratories
+Electronic Circuits Lab
+Digital Electronics Lab
+Microprocessors & Microcontrollers Lab
+Linear Integrated Circuits Lab
+Communication Lab
+Digital Signal Processing Lab
+Networks Lab
+Optical & Microwave Lab
+VLSI Lab
+Embedded Lab
+Faculty Details
+Department of Electronics and Communication Engineering
+HEAD OF THE DEPARTMENT
+Name: Mrs. N. Mangaiyarkarasi
+Qualification: B.E., M.E., (Ph.D).,
+Department: Electronics and Communication Engineering
+The Department of Electronics and Communication Engineering (ECE) was established in 2001, the department is offering B.E â ECE, M.E â VLSI Design and PhD. The department has highly qualified faculty members with Ph.Ds. in diverse fields. The faculty focuses on moulding quality engineers who are capable of making great contributions for a better tomorrow. The curriculum and syllabi are designed and periodically updated to meet the societal and technological needs of the times. The department has state-of-the-art research laboratories in addition to the academic labs enabling students to pursue their desire for attaining excellence in research and academics. The facilities encourage students to have hands-on training in modern engineering tools. The department regularly organizes seminars, guest lectures, short-term training programs, workshops, and conferences for the professional development of students and faculty within and beyond the institute. Furthermore, the department strives to develop collaborative research and development linkages with leading organizations in India and abroad.
+View Profile
+List of Faculty:
+S.No.
+Name of the Faculty
+Highest Degree
+Area of Specialization
+Present Designation
+Dr. J.Arputha Vijaya Selvi
+Ph.D
+Signal Processing, WSN, FSOC
+Professor
+Dr. T. Shanthi
+Ph.D
+Wireless Sensor Network
+Professor
+Ms. N. Mangaiyarkarasi
+M.E., (Ph.D)
+Communication Systems
+Assistant Professor
+Dr. R. Ponni
+Ph.D
+Wireless Sensor Network
+Associate Professor
+Mr. K. Sudarsanan
+M.E., (Ph.D)
+Optical Communication
+Assistant Professor
+Mr. S. Ramarajan
+M.E., (Ph.D)
+Communication Systems
+Assistant Professor
+Mr. R. Sathyaraj
+M.Tech.
+Advanced Communication Systems
+Assistant Professor
+Ms. U. Jeyamalar
+VLSI Design
+Assistant Professor
+Mr. W. Newton David Raj
+M.Tech., M.B.A
+Communication Systems
+Assistant Professor
+Ms. D. Vennila
+Applied Electronics
+Assistant Professor
+Mr. R. Balakrishnan
+M.E., M.B.A., (Ph.D)
+Communication Systems
+Assistant Professor
+Mr. R. Thandayuthapani
+Communication Systems
+Assistant Professor
+Ms. M. Muthulakshmi
+Computer Communication Engineering
+Assistant Professor
+Dr. A. Herald
+Ph.D
+Optical Communication
+Assistant Professor
+Ms. R. Brindha
+VLSI Design
+Assistant Professor
+Ms. N. Karthiga
+Communication Systems
+Assistant Professor
+Ms. P. Yamunarani
+M.E.
+VLSI Design
+Assistant Professor
+Ms. J. Janani
+M.Tech.
+Communication Systems
+Assistant Professor
+Dr. P. Malathi
+Ph.D
+Information Communication â Speech Processing
+Professor
+List of Supporting Staff:
+S.No.
+Name
+Designation
+Mr. A. Parivallal
+Lab Technician
+Mr. P. Suresh
+Lab Technician
+Mr. J. Niranjan Samuel
+Junior Research Fellow
+Ms. K. Seethalakshmi
+Lab Technician
+Mr. P. Jayapal
+Attender
+Achievements
+Faculty Achievements
+Academic Year 2025-2026 (ODD)
+Mr. R. Sathyaraj
+, faculty member and Advisor of the
+IEEE Communications Society (ComSoc) Student Branch Chapter
+was awarded a grant of
+USD 500
+towards
+student skill enrichment and outreach projects.
+Dr. P. Malathi, Mrs. N. Mangaiyarkarasi
+presented a paper titled
+âRFID-Driven Authentication for Cloud-Enabled Dynamic Wireless Chargingâ
+at the
+International Conference on Data Engineering & Machine Intelligence (ICDEMI-2025)
+organized by the GITAM School of Computer Science Engineering,
+GITAM (Deemed to be University), Bengaluru, on
+and 28
+November 2025.
+ISTE Student Chapter Internal Staff Seminar
+was delivered by
+our faculty member
+Mrs. M. Muthulakshmi
+on 07.11.2025.
+Students' Achievements
+Academic Year 2025-2026 (ODD)
+Student Achievements
+Our third-year ECE students
+Mr. D. Krishnakanth
+Mr. K. Lokesh
+secured the
+Winner position
+in the event
+TECH BRIDGE
+, organized as part of the National Level Intercollegiate
+Technical Meet
+âTECHINFLR-2K25â
+by the Department of Computer Science,
+Bon Secours College for Women (Autonomous), Thanjavur on 15.09.2025.
+Placement Highlights
+A total of
+44 final-year students
+were placed in various companies
+with an
+average salary package of â¹2.3 Lakhs per annum
+Sports Achievements
+Our ECE students actively participated in various sports activities and secured
+positions as detailed below:
+S. No
+Sport
+Number of Students
+Position Secured
+Football
+Runner-up
+Kabaddi
+Hat-trick Winners
+Cricket
+Runner-up
+Handball
+Third Place
+Academic Year 2019-20 (ODD)
+Student Name(s)
+Programme Title
+Organizer
+Date
+A. Siva Saranya
+R. Abarna
+R. Abinaya Karthika
+K. Agalya
+S. Agalya
+S. Dhanaharshini
+M. Harini
+M. Sripriya
+âBio Signal Processing, Biomaterials and Instrumentations of Medical Devices for Healthcare Applicationsâ
+University College Of Engineering, BIT Campus, Trichy
+07.08.2019 â 08.08.2019
+S. Dhanaharshini
+R. Dhivyadharshini
+C. Ranjitha
+Real Time Aspects with Embedded System
+K. S. K. College Of Engineering and Technology, Darasuram
+24.09.2019
+K. Priyadharshini
+V. K. Vithyasri
+TECHNOVANZA 2K
+University College Of Engineering, Ariyalur
+27.09.2019
+Academic Year 2018-19 (Odd)
+Student Name(s)
+Programme Title
+Organizer
+Date
+M. Ezhilarasi
+K. Rajalakshmi
+B. Melvin Charles
+Poet Competition
+Unavuporul Vazhangal Mattrum Nugaror, Padhukapputhurai
+06.07.2018
+R. Shanmugapriya
+R. Vinitha
+K. Priyadharshini
+U. K. Vithyasri
+C. Subashini
+T. Swetha
+Paper Presentation
+ISTE Student Chapter
+11.08.2018
+V. Sasirekha
+Paper Presentation
+Kongunadu College of Engineering, Namakkal
+18.08.2018
+S. Dhanasekaran
+E. Ilankhatir
+K. Priyadharshini
+U. K. Vithyasri
+S. Hemamalini
+M. Veeralakshmi
+A. Eswari
+U. Udhayarani
+M. Ezhilarasi
+Y. Sivanantham
+R. Vishwanath
+M. A. Yuvan Kishore
+K. Meera
+K. Akalya
+V. Sasirekha
+Intra Department Paper Presentation
+Kings College of Engineering
+10.09.2018
+J. Deepika
+R. Hemalatha
+R. Rajeswari
+K. Ramya
+S. Sheeba
+S. Ashiga
+M. Bhavadharini
+S. Durga
+P. Elakiya
+S. Haritha
+J. S. Gayathiri
+K. Gayathiri
+M. Janakiraman
+S. Kavibala
+K. Mahalakshmi
+P. Malathi
+B. Monisha Reeta
+V. Nandhini
+G. Nandhini
+C. Narendran
+N. Pavithra
+S. Pavithra
+K. Priyanka
+LabVIEW Graphical Development â Hands-on Training
+Kings College of Engineering
+12.09.2018
+J. Pragadeeswari
+S. Rangeela Subraja
+S. Santhiya
+R. Shanmuga Priya
+S. Shenbagaveni
+C. Subhasini
+T. Swetha
+J. Tamilselvan
+R. Vinitha
+S. Vimala
+K. Akalya
+T. Archana
+S. Dhanasekaran
+S. Dhanaharshini
+R. Dhivyadharshini
+K. Priyadharshini
+C. Ranjitha
+D. Ranjitha
+M. Rasika
+M. Sri Priya
+LabVIEW Graphical Development â Hands-on Training
+Kings College of Engineering
+12.09.2018
+M. Ajay
+M. Janaki Raman
+C. Narendran
+S. Hemamalini
+M. Veeralakshmi
+S. Saran Kumar
+S. Shenbagaveni
+T. Swetha
+S. Hemamalini
+Hands-on Training in Embedded System using ARM Cortex Series Controllers
+K.S.K. College of Engineering, Kumbakonam
+26.09.2018 â 27.09.2018
+Academic Year 2018-19 (Even)
+Student Name(s)
+Programme Title
+Organizer
+Date
+J. Dhivyadarshini, K. Divya, S. Durga, S. Haritha, J. Lavanya, G. Shrisuruthi, M. Krithica
+Addressing Techniques and Device in Wireless Networks
+K.S.K College of Engineering and Technology, Darasuram
+28-01-2019
+K. Divya, S. Durga, P. Elakiya, S. Haritha, G. Janani, M. Krithica
+Science and Technology Capacity Building for Industrial Needs
+Arasu Engineering College, Kumbakonam
+30-01-2019 to 01-02-2019
+S. Manisha, S. Lanjer Nisha, R. Priyatharcini, J. S. Gayathri, S. Kavibala, P. Malathi, S. Ashiga, G. Nandini, R. Mahalakshmi Bai, A. Monisha, J. Pragadeeswari, R. Punitha, P. Pavithra, P. Anbuselvi
+Processing of Bio Signals using MATLAB
+Karpagam Academy of Higher Education, Coimbatore
+01-02-2019
+G. Anitha, P. S. Kanishka Harini, B. Arthika, M. Dhanalakshmi, R. Ezhilarasi, K. Kavi Bharathi, G. Maheswari, G. Srivithya, S. Shanmuga Priya, S. Santhiya, S. Vainiya, U. Sara Mariyam, K. Priyanka, S. Preethi, C. Pavithra, S. Pavithra, P. Vinitha, S. Vimala, M. Nithya, S. Roslin Mary
+Simulation and Design of PCB using Proteus
+K. Ramakrishnan College of Technology, Trichy
+02-02-2019
+K. Rasika, K. Priyanka, G. Preethi, S. Shenbagaveni, B. Uthrasri, R. Vinitha, C. S. Niranjani
+Embedded Systems
+V.S.B Engineering College, Karur
+02-02-2019
+S. Durga, K. Nathiya, C. Narendran, P. Iyyappan, M. Janakiraman, M. Ajay, M. Bavadharini, K. Jaishree, L. Mowli, K. Gayathri, K. Maha Lakshmi, B. Monisha Reeta, V. Nandhini, D. Nivethitha, R. Vasanthi, T. Sivabharathi, S. Rangeela Subraja, J. Tamilselvan, K. Karthikeyan, S. Saran Kumar, M. Ratheeswaran, K. Subash, J. Elumalai, S. Surriya, B. Oviya, R. Shanmugapriya, C. Subashini, T. Swetha, M. Padmadharani, B. Pavithra, C. Suganya, S. Arundhavaselvan, P. Priya
+Raspberry Pi
+M. Kumarasamy College of Engineering, Karur
+08-02-2019
+K. Jaishree, L. Mowli
+Science Festival
+Science City, Chennai
+19-02-2019 to 22-02-2019
+Events
+Academic Year 2025-2026 (ODD)
+MSME Certified - Inter Intra Institute Activity in the title of  â Embedded System â Graphical System using LabVIEW â  TECH ELEVATE 2025 - Organized during 14-07-2025 to 01-08-2025.
+Snapshots during the Orientation Program held on 28-07-2025
+Silver Jubilee Celebration on 18-08-2025
+Glimpses of Students Change Club (SCC)
+Organized Work Shop  on 18.09.2025 Titled  âRF SYSTEMS AND DESIGNâ
+Organized Work Shop  on 18.09.2025 Titled â5G AND INDUSTRY 5.0 â RESHAPING THE FUTUREâ.
+Organized Guest Lecture on 13.09.2025 Titled âAI Unplugged: From Smart Systems to Federated Learningâ
+Organized Aptitude Skill Enrichment Training  Programme on 13.09.2025
+Organized Guest Lecture on 08.09.2025 Titled âRecent Trends in Electronicsâ
+Organized 15 days MSME programme on âEMBEDDED SYSTEMSâ
+Organized Internal staff seminar on 29.09.2025 Titled âLi-Fiâ
+Internal staff seminar titled âOverview on Research Promotion Schemesâ was conducted on 03-08-2025
+Organized Technical Symposiumâe-Blast25â  on 15.10.2025
+Glimpses of Intra department Paper Presentation in view of Engineers Day on 15-09-2025
+Clubs And Activities
+The prime aim of this club is not only to provide a strong emphasis in Practical Electronics but also to provide fun in learning and to help students understand the seemingly incomprehensible electronic gadgets in the world today. It also assists students in developing their own devices in an innovative way.
+Objectives:
+To bring the students out of their syllabi-bound shells and expose them pragmatically to the field.
+To explain the concepts of electronics, circuit design, and hardware analysis and help them gain knowledge.
+To provide a platform for students to work on their innovative ideas.
+To provide resources and the technical know-how to realize and shape their projects.
+To expose students to the latest technological advancements in electronics.
+To organize discussions on emerging trends in electronics.
+Office Bearers:
+Role
+Name
+Designation
+Chief Co-ordinator
+Mrs. N. Mangaiyarkarasi
+HOD / ECE
+Staff Coordinator
+Mrs. E. Priya Dharshini
+AP/ECE
+President
+Ms. V. Praveena
+III ECE
+Vice President
+Ms. M. Gokila
+III ECE
+Secretary
+Mr. K. Abilash
+III ECE
+Vice Secretary
+Ms. S. Adhilakshmi
+III ECE
+Treasurer
+Mr. K.S. Jayavijay
+III ECE
+Vice Treasurer
+Mr. M. Srikanth
+III ECE
+Regulation
+View
+2021
+View
+2017
+View
+2013
+Syllabus
+View
+2021
+View
+2017
+View
+2013
+Syllabus
+External Stakeholders:
+S.No
+Name of the Member
+Position
+Dr. G. Karpagarajesh
+Associate Professor,
+Dept. of Electronics & Communication Engg.,
+Alagappa Chettiar Government College of Engineering & Technology, Karaikudi.
+Email:
+gkrajesh1@gmail.com
+External Stakeholder
+(University Representative)
+Dr. P. Samundiswary
+Professor,
+Department of Electronics Engineering,
+Puducherry University, Puducherry.
+Email:
+sam.dee@pondiuni.edu.in
+External Stakeholder
+(Subject Expert)
+Dr. K. Prabhu
+Assistant Professor,
+National Institute of Technology-Karnataka, Surathakal.
+Email:
+prabuk@nitk.edu.in
+External Stakeholder
+(Subject Expert)
+Mr. R. Mohammed Ghouse
+Kalchi Controls,
+D-43, 8th Cross West,
+Thillai Nagar, Tiruchirappalli.
+Email:
+ghouse@kalchi.co.in
+External Stakeholder
+(Industry Expert)
+Ms. Jaishree Kamalanathan
+System Administrator,
+WIPRO Technologies, Bangalore.
+Email:
+ijaishreekamalanathan@gmail.com
+External Stakeholder
+(Alumni Member)
+Dr. S. Rajarajan
+Professor, ECE,
+Sri Sairam Institute of Technology, Chennai.
+Email:
+rajarajan.ece@sairamit.edu.in
+External Stakeholder
+(Expert â Courses)
+Internal Stakeholders:
+S. No.
+Name of the Member
+Position
+Ms. N. Mangaiyarkarasi
+Assistant Professor & Head of the Department
+Chairman
+Dr. T. Shanthi
+Professor
+Member
+Dr. R. Ponni
+Associate Professor
+Member
+Mr. K. Sudarsanan
+Assistant Professor
+Member
+Mr. S. Ramarajan
+Assistant Professor
+Member
+Mr. R. Sathyaraj
+Assistant Professor
+Member
+Facebook
+Instagram
+Youtube
+IEEE Sponsored International Conference on April 9áµÊ° and 10áµÊ°.
+Click here

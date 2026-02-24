@@ -1,22 +1,5 @@
-UG Programmes:
-
-- B.E Civil Engineering
-- B.E Computer Science and Engineering
-- B.E Computer Science & Engineering
-- B.E Electronics Communication Engineering
-- B.E Electrical & Electronics Engineering
-- B.E Mechanical Engineering
-- B.Tech Artificial Intelligence & Data Science
-- B.Tech Information Technology
-
-PG Programmes:
-
-- M.E Computer Science and Engineering
-- M.E Power Electronics and Drives
-- M.E Thermal Engineering
-- M.E VLSI Design
-
-Ph.D Programmes:
-
-- Electronics Communication Engineering
-- Mechanical Engineering
+404 Not Found
+Not Found
+The requested URL was not found on this server.
+Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.

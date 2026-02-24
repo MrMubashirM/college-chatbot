@@ -1,0 +1,315 @@
+Kings College of Engineering (KCE)
+Electrical and Electronics Engineering
+About Department
+The Electrical and Electronics Engineering department was started in the year 2001. The department offers a 4  year B.E programme and a 2 year M.E. programme in EEE & PED respectively. The department has a team of highly qualified, experienced and dedicated faculty to impart quality education to the students.
+All the laboratories   are  well established with the state-of-art equipment and latest  licensed  software  for   simulation  studies help  our  students to achieve their goals. The department offers a stimulating environment for its students to do their project work and to identify and seek solutions to the problems of industries. A student passing out of this department will have the ability to build, motivate and lead project teams effectively and will have the confidence to solve complex technical problems and organizational issues. Laboratories are well-equipped with all the latest equipment as per the syllabus.
+Vision & Mission
+Vision
+To infuse technical competencies in Electrical and Electronics Engineering and to provide research ambience with values to face the challenges in a global environment.
+Mission
+To develop technically strong electrical engineers with leadership qualities to meet the industry needs through effective teaching learning methodologies.
+To inculcate ethical values to become successful global professionals.
+PEOs and POs
+Programme Educational Objectives (PEOs)
+Find employment in Core Electrical and Electronics Engineering and service sectors.
+Get elevated to technical lead position and lead the organization competitively.
+Engross in lifelong process of learning to keep themselves alongside of new developments in the field of power and control engineering with applications.
+Become an entrepreneur and be part of electrical and electronics product and service industries.
+Programme Outcomes (POs)
+PSO1:
+Apply the principles of physics, chemistry, environmental science, mathematics (including Laplace Transforms, Differential Equations, Linear Algebra and Complex Variables), Electrical, Electronics and Computer Science with laboratory skills to analyze and solve the complex problems in electrical engineering and allied interdisciplinary areas.
+PSO2:
+Model, Analyze, Design, Testing, Operation and Maintenance of high currents electrical systems such as Electrical Machines, Power and Energy Systems.
+PSO3:
+Work proficiently in major thrust areas in Electrical Engineering and recent technology courses to provide solutions to the current real time problems to meet the demands of industries and identify research gaps which lead to new ideas and innovations.
+Scope & Job Oppourtunities
+Electronics and communication engineering stands out as a highly sought-after field within the vast realm of engineering, offering extensive opportunities for technological innovation and professional growth.
+The Indian job market for Electronics and Communication Engineers is expected to grow at a steady 7% annually. For ECE, job growth is predicted with more than 345,800 positions by 2026 and overall employment is projected to grow 5% from 2022 to 2032, faster than the average for all occupations.
+ECE students also have lots of opportunities in Government and private companies in the areas of design, manufacture, installation, operation, and maintenance of electronics equipment and systems. New opportunities and avenues are also opening for electronics & communication engineers due to the integration of electronics into various new industrial verticals.
+Electronics students with skills in robotics, automation technologies, renewable energies, Internet of Things (IoT), mechatronics engineering concepts add more value to their average pay scale. Students pursuing electronics engineering aim to get a highly paid job, so improving their skill sets will impact their pay scale a lot.
+Value Added Course
+Laboratories
+Electrical Machines Lab
+Power Electronics Lab
+Control Systems Lab
+Measurements and Instrumentation Lab
+Power System Simulation Lab
+Electrical Circuits Lab
+Electrical Workshop
+Faculty Details
+Department of Electrical and Electronics Engineering
+HEAD OF THE DEPARTMENT
+Name: Mr. R. SUNDARAMOORTHI
+Qualification: B.E., M.E., (Ph.D).,
+Department: Electrical and Electronics Engineering
+The department currently has a dedicated team of faculty members with a minimum of 4 years of experience,
+supported by well-qualified staff with diverse specializations. We take pride in our faculty, who have
+published their research in journals indexed by SCI, Google Scholar, Scopus, Web of Science, and more. Our
+staff members are actively involved in research activities, and their experience inspires students to
+develop and enhance their technical knowledge across various fields.
+View Profile
+List of Faculty:
+S. No.
+Name of the Faculty
+Highest Degree
+Area of Specialization
+Present Designation
+Dr. S. Sivakumar
+M. Tech., Ph.D
+Power System and Project Management
+Professor
+Dr. A. Albert Martin Ruban
+M.E., Ph.D
+Renewable Energy, Smart Grid and Wireless Network
+Professor
+Mr. R. Sundaramoorthi
+M.E., (Ph.D)
+Power Electronics, Electrical Drives and Hybrid Energy Technology
+Assistant Professor
+Dr. P. Narasimman
+M.E., Ph.D
+Power Electronics and Drives, Control Systems, Electromagnetic Compatibility
+Associate Professor
+Mr. J. Arokiaraj
+M.E., (Ph.D)
+Electrical Machines, Smart Grid, Power Electronics and Power Quality
+Assistant Professor
+Mr. S. R. Karthikeyan
+M.E., (Ph.D)
+Power Electronics and Drives, FACTS Devices, Power Quality, Electrical Traction
+Assistant Professor
+Mrs. P. Thirumagal
+M.Tech.
+Communication System and Electromagnetic Field
+Assistant Professor
+Dr. G. Suganya
+M.Tech., Ph.D
+Power System, High Voltage Engineering and Machine Learning
+Assistant Professor
+Dr. L. Maheswari
+M.E., Ph.D
+Control System, Power Electronics and Electromagnetic Field
+Assistant Professor
+Mrs. N. Mangaleswari
+M.E., (Ph.D)
+Power Electronics and Drives, Control System and Special Electrical Machines
+Assistant Professor
+Mr. G. Jayachandran
+M.E.
+Power Electronics and Drives and Electrical Machines
+Assistant Professor
+List of Supporting Staff:
+S. No.
+Name
+Designation
+Mr. R. Alex
+Lab Technician
+Mr. K. Regubalan
+Lab Technician
+Mrs. R. Rajasri
+Attender
+Achievements
+Faculty Achievements:
+Faculty Achievements 2025-2026 (ODD)
+Publication Details
+Dr. G. Suganya,  published a research paper titled âAn Electronic Tongue-Based Methodology for Monitoring Degradation of Internal Insulation in Power Transformersâ in IEEE Transactions on Instrumentation and Measurement SCI, Q1; Impact Factor: 5.6
+Dr. G. Suganya, published a research paper titled âA Hybrid CNN-LSTM Model for Flashover Alert on Polluted Insulators Using UHF and Acoustic PD Signals,â IEEE Transactions on Instrumentation and Measurement, SCI, Q1, IF: 5.6.
+Patent
+ï¶	A patent titled âSolar Powered Smart Umbrella Systemâ has been granted by Dr. L. Maheswari.
+Programme Seeking Fund
+A grant of 500 USD was received from the IEEE Power & Energy Society for a workshop by Dr. G. Suganya and Mr. S. R. Karthikeyan.
+ISTE Staff Chapter
+An ISTE Staff Chapter Internal Staff Seminar on âAluminiumâAir Batteryâ was delivered by our faculty member Mr. A. G. Aswathsreeram on 08.12.2025.
+Student Achievements 2025-2026 (ODD)
+S. Uma, M. Abirami, and S. Archana, IV year students, won the Third Prize at the Project Expo conducted at Arasu College of Engineering on 13.10.2025, receiving a cash award of â¹500.
+Balaji and S. Prem Kumar, III year students, were awarded the First Prize at the Project Expo conducted at K. Ramakrishnan College of Technology on 15.10.2025, along with a cash prize of â¹1,000.
+V. Ragavan and B. Sherin Kishala, III year students, won the Second Prize at the Project Expo conducted at K. Ramakrishnan College of Technology on 15.10.2025, receiving a cash award of â¹500.
+Vaishali and R. Akash, III year students, won the Third Prize in the Project Expo at K. Ramakrishnan College of Technology with a cash award of â¹400 on 15.10.2025.
+E. Vairavel and S. Karthik, II year students, secured the First Prize at the Project Expo held at Mount Zion College of Engineering and Technology with a cash prize of â¹1,000 on 15.10.2025.
+FDP Participation
+Mr. R. Sundaramoorthi attended the ATAL/AICTE-sponsored programme on Machine Learning in Robotics: Shaping the Future of Digital Advancements at Tagore Institute of Engineering and Technology from 20.10.2025 to 25.10.2025.
+Mr. R. Sundaramoorthi participated in the faculty development programme titled âHow to Write Quality Research Papers for Impact Factor Journalsâ, held at A.C.T Academy, Kerala, on 03.11.2025.
+Mr. J. Arokiaraj attended the ATAL/AICTE-sponsored programme on Machine Learning in Robotics: Shaping the Future of Digital Advancements at Tagore Institute of Engineering and Technology from 20.10.2025 to 25.10.2025.
+Mr. S. R. Karthikeyan attended a Short Term Course (STC) on Challenges and Solutions for Power Quality in Modern Power Electronics Driven Power Systems, conducted by Dream Institute of Technology in virtual mode from 25.11.2025 to 29.11.2025.
+Dr. G. Suganya participated in the ATAL/AICTE-sponsored programme titled Exploratory Data Analytics (EDA): Tools and Techniques conducted at Velammal College of Engineering and Technology during 24.11.2025â29.11.2025.
+Mrs. N. Mangaleswari and Dr. L. Maheswari attended a five-day offline FDP on âSustainable Hydrogen Energy: Technology, Innovation, and Entrepreneurshipâ, conducted at SRM Institute of Science and Technology (ATAL/AICTE sponsored) during 22.09.2025â27.09.2025.
+Dr. L. Maheswari and Mrs. N. Mangaleswari participated in the programme titled âResearch Ethics in Higher Educationâ, organized by the National Centre for Advanced Studies in Humanities and Social Sciences, Colombo, Sri Lanka, in collaboration with Glob ethics, South Asia Centre, Bangalore, from 21.07.2025 to 25.07.2025.
+Mr. A. G. Aswath Sreeram, Dr. L. Maheswari, , and Mrs. S. Swathika participated in the ATALâAICTE sponsored programme titled âAdvanced Trends for the Optimization, Protection, and Control in Electrical-Based Systemsâ, held at J. C. Bose University of Science and Technology from 17.11.2025 to 22.11.2025.
+Mrs. S. Swathika and Mr. A. G. Aswath Sreeram participated in the ICT-sponsored offline training programme on âSemiconductor Devices, Fabrication & Layout Designâ conducted at Mount Zion College of Engineering and Technology during 01.12.2025â05.12.2025.
+Our department received the Best Maintenance Award for the academic year 2024â2025."
+Our faculty members and students have secured funding for two TNSCST projects.
+Dr. S. Vasantharaj, along with students Aravindhan R., Jegadeesan R., and Yogesh C., received a fund of â¹7,500 from TNSCST for the project titled âA Smart Monitoring System for Transformer Breather Analysis Using TinyMLâ.
+Dr. G. Suganya, along with students Miilton Infant Rai. P, Thavatheesh. S, and Veeraselvan. V., received a fund of â¹ 7,500 from TNSCST for the project titled âAn IoT based predictive interpretation of dissolved gases in transformer oil using edge impulseâ.
+PAPER PUBLICATIONS
+Dr. G. Suganya published 2 articles in IEEE Transactions on Instrumentation Measurement (SCI, Q1, IF: 5.6)journal, and one article in IEEE Transactions on Industrial Informatics (SCI, Q1, IF: 9.8)journal during the year 2024-2025.
+Dr. S. Vasantharaj and Dr. S. Naveen Prakash published a Scopus article in Smart Grids and Sustainable Energy journal during the academic year 2024-2025.
+INDUSTRIAL VISIT AND LOCAL VISIT ORGANIZED BY THE DEPARTMENT
+Students visited the Siemens Centre of Excellence in Manufacturing at the National Institute of Technology, Thiruchirappalli on 04.08.2024.
+Organized an Industrial visit at Bharat Heavy Electricals Limited (BHEL), Tiruchirappalli on 26 th February 2025.
+Organized an Industrial visit at Nuclear Power Plant, Kudankulam, Thirunelveli (Dt) on 24.04.2025.
+Organized an Industrial visit at Nuclear Power Plant, Kudankulam, Thirunelveli (Dt)on 24.04.2025.
+Students visited Kerala Electrical & Allied Engineering Company Limited in Kochi on 10th March 2025.
+STUDENT ACHIEVEMENTS
+III year students attended a workshop on Electric Vehicles and Energy Storage Technologies from 24.03.2025 to 28.03.2025 at the National Institute of Technology, Trichy, which emphasized the need for EV battery management systems and the utilization of hydrogen storage.
+A second-year student won second place in the Poster Presentation conducted at Dhanalakshmi Srinivasan Engineering College on April 4, 2025.
+A second-year student secured second place in the Ideathon event at the National Level Technical Symposium organized by Study World College of Engineering, Coimbatore.
+A Final year student secured second place in the event of Poster presentation at the National Level Technical Symposium organized by Dhaanish Ahmed College of Engineering, Chennai on 4th April 2025.
+Our students delivered an online Spectrum Talk on the topics 'Blackout: Causes, Impacts, and Prevention' and 'EV Batteries with Nanoscale Coatings'.
+Students are receiving the prize for academic excellence for the year 2024â2025
+GUSET LECTURE / WORKSHOP / SYMBOSIUM CONDUCTED BT THE DEPARTMENT
+A workshop on 'Recent Advancements in Microgrids Using Optimization Techniques' was organized on 19th September 2024.
+A guest lecture on 'Electric Vehicle Technology' by Mr. R. Venkatesh, M.E., (Ph.D.), Head of the Department of EEE, SVCET, Puducherry, will be held on 02.05.2025.
+A guest lecture on the topic 'Role of Solar Energy in Recent Power Systems' was conducted on 20th February 2025.
+An alumni talk was delivered by our former student Er.S.Jegadeesan (Alumni: 2013-17 Batch), Senior Technical Professional, Kellogg Brown and Root Inc, Chennai.
+OUTREACH ACTIVITIES
+State level 3rd Price in SCHOOL INNOVATION DEVELOPMENT PROJECT (SIDP 3.0), Tamil Nadu
+Conducted a National Mathematics Activity for school students and issued certificates of participation.
+S.No
+DATE
+EVENT DETAILS
+VENUE
+PARTICIPANTS
+Title of the paper/Event
+REMARKS
+1.10.2019
+State level technical symposium
+Chendhuran college of engineering and technology
+M. Rasika
+SANSCINCO
+FIRST PRIZE âPAPER PRESENTATION EVENTâ
+R. Pavithra
+19.09.2019
+A National level Technical Symposium
+PRIST University
+M. Rasika
+Vidyut 2k19
+SECOND PRIZE âPAPER PRESENTATION EVENTâ
+R. Pavithra
+21.08.2019
+National seminar
+PRIST University
+M. Kaviya
+Recent Trends in Eco Friendly Power Plant and its Control Techniques
+Participation
+K. Bavana
+M. Mano
+S. Hariharan
+K. Prabhakaran
+22.08.2019
+One day National Level Workshop
+K.S.K College of Engineering And Technology
+R. Priyadharshini
+Real Time DSP Applications
+Participation
+N. Ishwarya
+24.08.2019
+One day Workshop
+Pantech ProEd
+R. Pavithra
+Power Electronics and Renewable Energy using Matlab
+Participation
+M. Rasika
+R. Sakthisridevi
+Events
+Awareness Programme
+The Department conducted a GATE awareness programme by Ms. SavithriSivakumar, CFO, Trichy Plus, on 12.09.2025
+GATE Awareness Programme On 30.10.2025
+Organized a GATE Awareness Programme on 30.10.2025.
+GATE awareness programme
+The Department organized a GATE awareness programme by Mr. M. Venkateshwaran, Founder, Sri Krishna Engineering Academy, Trichy, on 19.09.2025
+Guest Lecture
+A Guest lecture titledâScope of IoT in Electrical Engineeringâon23.09.2025, delivered byMr. Imran, Technical Executive Trainer, KPR InfoTech Solutions Pvt. Ltd., Thanjavur.
+Industrial Visit
+Organized an Industrial Visit at NLC India Limited, Neyveli on 11.09.2025
+Industrial Visit
+Students Visited Bharath Heavy Electrical Limited BHEL, Trichirappalli on 19.08.2025
+One Day Workshop
+Organized an IEEE PESâsponsored workshop on âMDI: Power with Purposeâ on 01.11.2025.
+Paper Presentation
+The Department organized an intra-department paper presentation titled âAdvancing Smart Grid Sustainability via Battery Innovationâ on 12.09.2025
+Project Expo
+The Department organized a Mini Project Expo on 10.10.2025
+Symposium
+Organized a National Level Technical Symposium â ENIGMAâ 25â on 10.10.2025
+S.Sudhersun, R.Venkatesh, of final year ece received iii rd prize with
+10,000 cash award in start up tn âolimayan 2.0 on 31-03-2023
+conducted by knowledment institute of technology,salem
+S.Sudhersun, R.Venkatesh, D.Santhosh of final year ECE received best market fit and innovative project
+award on 19.04.2023 conducted by anna university, chennai
+Clubs and Activities
+Contributing novel ideas and innovations that empower advancements in engineering profession, Project club was inaugurated on 23.01.2020 for the EEE students.
+OBJECTIVE:
+To allow graduates to make judgment-based decisions with confidence.
+To identify, formulate, and solve engineering problems through innovative ideas.
+To design and undertake or conduct an independent research.
+To develop students' knowledge for solving technical problems through structured project research study that produces competent and sound engineering skills.
+OFFICE BEARERS:
+Chief
+Dr. A. Albert Martin Ruban
+HOD/EEE
+Staff Coordinators
+Mr. J. Arokiaraj
+AP/EEE
+Mr. S. R. Karthikeyan
+AP/EEE
+Student Coordinators
+E. Ganesan
+III-EEE
+S. Jagadeshwaran
+II-EEE
+EVENTS ORGANIZED:
+Academic Year 2019â20 Odd Semester
+NAME OF THE EVENT
+DATE
+Project Club Inauguration
+23.01.2020
+Project Expo
+26.03.2020
+Regulation
+View
+2021
+View
+2017
+Syllabus
+View
+2021
+View
+2017
+View
+2013
+Board Of Studies Members
+S. No
+Name
+Designation
+Work Location
+Role in BoS
+Photo
+Dr. G. Kulanthaivel
+Professor & Head / Dept of EEC
+NITTTR, Chennai
+University Representative
+Dr. M. Venkata Kirthiga
+Professor / Dept of EEE
+NIT, Tiruchirappalli
+Subject Expert
+Dr. V. Indra Gandhi
+Professor / Dept of Energy and Power Electronics
+VIT, Vellore
+Subject Expert
+Dr. N. Muthukumar
+System Analyst
+RAMCO Systems, Chennai
+Industry Expert
+Mr. M. Avinash
+Principal Engineer
+Ace Micromatic Manufacturing Intelligence Technologies Pvt. Ltd., Bangalore
+Alumni
+Dr. M.P. Flower Queen
+Professor / HoD, Dept of EEE
+SRM TRP Engineering College, Tiruchirappalli
+Expert - Courses
+Facebook
+Instagram
+Youtube
+IEEE Sponsored International Conference on April 9áµÊ° and 10áµÊ° .
+Click here

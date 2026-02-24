@@ -1,0 +1,165 @@
+Kings College of Engineering (KCE)
+B.Tech Artificial Intelligence & Data Science
+About Department
+The Department of Artificial Intelligence and Data Science (AI & DS)was established in the year 2023 and Information Technology was established in the year 2024. It is a specialized department focused on training students in the fields of Artificial Intelligence and Data Science. These fields combine aspects of computer science, mathematics, statistics, and domain knowledge to create intelligent systems that can learn from data, perform complex tasks, and solve real-world problems.
+Equipped with advanced laboratories, high-performance computing facilities, and industry-standard tools, the department provides students with hands-on experience in machine learning, deep learning, natural language processing, computer vision, big data technologies, and cloud computing.
+Through an industry-aligned curriculum, research-driven learning, and practical training, the department prepares graduates to meet the growing demand for skilled professionals in AI, data science, and related emerging fields.
+Vision & Mission
+Vision
+To emerge globally competent provider of Artificial Intelligence and Data Science educator fostering innovation and research abilities among techno crafts along with societal commitment
+Mission
+To enlighten students with technical exploration through innovative teaching learning approaches and cutting edge research ambience.
+To instil value system in the student minds and become potential techno crafts solving societal problems.
+To enrich aspirants to produce intelligent solutions and become industry deployable candidates.
+PEOs and POs
+Programme Educational Objectives (PEOs)
+Utilize their proficiencies in the fundamental knowledge of basic sciences, mathematics, Artificial Intelligence, data science and statistics to build systems that require management and analysis of large volumes of data.
+Advance their technical skills to pursue pioneering research in the field of AI and Data Science and create disruptive and sustainable solutions for the welfare of ecosystems.
+Think logically, pursue lifelong learning and collaborate with an ethical attitude in a multidisciplinary team.
+Design and model AI based solutions to critical problem domains in the real world.
+Exhibit innovative thoughts and creative ideas for effective contribution towards economy building.
+Programme Outcomes (POs)
+Engineering Knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+Problem Analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+Conduct investigations of complex problems:Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions
+Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+The Engineer and society:Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability:Understand the impact of the professional engineering solution, societal and environmental contexts, and demonstrate the knowledge of ,and need for sustainable development.
+Ethics:Apply ethical principles and commit to  professional ethics and responsibilities and norms of the engineering practice
+Individual and teamwork:Function effectively as an individual, and as a member or leader in diverse teams, and in multi disciplinary settings.
+PO10
+Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+PO11
+Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to oneâs own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO12
+Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+Program Specific Objectives (PSOs)
+Students will be able to
+PSO1:
+Develop effective domain-specific processes based on AI for efficient decision making across a range of domains, including the business and governance domains.
+PSO2:
+Reach a workable Data-driven insight, foresight, and hindsight to address business and engineering challenges
+PSO3:
+Create, select and apply the theoretical knowledge of AI and Data Analytics along with practical industrial tools and techniques to manage and solve wicked societal problems
+PSO4:
+Gain expertise in information acquisition, knowledge representation, and knowledge engineering through the development of data analytics and data visualization abilities. This will enable you to manage challenging projects.
+PSO5:
+Able to carry out fundamental research to cater the critical needs of the society through cutting edge technologies of AI.
+Scope & Job Oppourtunities
+Computer Science is a very vast discipline with plethora of opportunities. The programme trains the students of the basics and different facets of computer engineering. It comprises foundations of computer systems, computer architecture & organization, networking, the theory of computation, database systems, electronics, operating systems, programming and website designing, e-commerce & multimedia applications, principles of programming languages, software engineering, hardware engineering, etc.
+The professionals of CSE can be assigned as a computer programmer, data scientist, systems analyst, software developer, hardware engineer, IT consultant, system engineer, system designer, IT specialist, networking engineer, database administrator, web developer, mobility tester, e-commerce specialist, programmer, software tester, etc, and exercised various other job profiles in the private firms and top companies like TCS, Wipro, Microsoft, Google, Infosys, Accenture, HCL, Facebook, Cognizant, Adobe, Oracle, SunMicrosystems, Flipkart, IBM, etc.
+The professionals can mark their career in multiple domains like artificial intelligence, embedded systems, ethical hacking, wireless network, computer manufacturing, database systems, web applications, animation, computer graphics, scientific modeling, computational biology, video games development, mobile application development, data science, network administration, etc.
+Students also have an option of taking up GATE exam whose scorecard is appraised by various government organizations for recruitment. Computer engineers can also get numerous jobs.
+Value Added Course
+AWS Academic Alliance
+Oracle Academic Alliance
+Laboratories
+Advanced Programming Lab
+DBMS & RDBMS Lab
+Conventional Programming Lab
+Unix Lab
+Multimedia & Image Processing Lab
+UIUX Lab
+Peripherals & Interfacing Lab
+Hardware Maintenance Lab
+Software Development Lab
+Cloud Computing Lab
+Internet Security Lab
+Faculty Details
+Department of Artificial Intelligence and Data Science
+HEAD OF THE DEPARTMENT
+Name: Dr.S.M.Uma
+Qualification: B.E.,M.E.,Ph.D
+Department: Artificial Intelligence and Information Technology
+Department of Artificial Intelligence and Data Science (AI & DS) is a specialized department focused on training students in the fields of Artificial Intelligence and Data Science. These fields combine aspects of computer science, mathematics, statistics, and domain knowledge to create intelligent systems that can learn from data, perform complex tasks, and solve real-world problems.
+View Profile
+List of Faculty:
+S.No.
+Name of the Faculty
+Highest Degree
+Area of Specialization
+Present Designation
+Dr. S. M. Uma
+Ph.D
+Data Mining
+Head / Associate Professor
+Ms. B. Sangeetha
+M.Tech., (Ph.D)
+Cloud Computing, Machine Learning, Internet of Things
+Academic Coordinator / Assistant Professor
+Ms. M. Vidhya
+M.E.
+Cloud Computing
+Assistant Professor
+Ms. S. Nirmala
+M.Tech.
+Artificial Intelligence, Machine Learning
+Assistant Professor
+Ms. V. Gayathri
+M.Tech.
+Software Engineering
+Assistant Professor
+Ms. T. Sindhu
+M.E.
+Artificial Intelligence and Machine Learning
+Assistant Professor
+Achievements
+Faculty Achievements 2025-2026 (ODD)
+Publication Details
+Mrs.S.Nirmala have published a paper in the International Journal of Advanced Research in Science, Communication and Technology entitled as âReal-Time and Energy-Efficient Task Allocation in Fog-Edge IoT Networks Using a Hybrid Metaheuristic Modelâ. DOI: 10.48175/IJARSCT-2594, Volume 5, Issue 12,April 2025.
+Mrs.T.Sindhu have published a paper in the International Journal of Research and Analyrical Re entitled as âReal-Time and Energy-Efficient Task Allocation in Fog-Edge IoT Networks Using a Hybrid Metaheuristic Modelâ. DOI: 10.48175/IJARSCT-2594, Volume 5, Issue 12,April 2025.
+Mrs.V.Gayathri have published a paper in the International Journal of Research and Analyrical Re entitled as âReal-Time and Energy-Efficient Task Allocation in Fog-Edge IoT Networks Using a Hybrid Metaheuristic Modelâ. DOI: 10.48175/IJARSCT-2594, Volume 5, Issue 12,April 2025.
+FDP Participation
+Mrs.B.Sangeetha has successfully participated & completed AICTE Training And Learning (ATAL) Academy Faculty Development Program on AI-Driven Solutions for Sustainable Development: A Faculty Development Perspective at K. RAMAKRISHNAN COLLEGE OF ENGINEERING from 08/09/2025 to 13/09/2025
+Mrs.B.Sangeetha has successfully participated & completed on âMongoDB Associate Developer âorganized in association with ICT Academy of TamilNadu during 24/11/25 to 28/11/25.
+Mrs.S.Nirmala has successfully participated one week FDP on Recent Advancements in Artificial Intelligence (AI) &ML from 30th June to 4th July 2025, organized by St.Josephâs College of Engineering in association with STEP-National Institute of Technology,Surathkal.
+Mrs.S.Nirmala has successfully participated One-Week Virtual International Level Faculty Development and Training Programme(FDTP) on âSmart and Sustainable Solutions in Mobility: Clean Combustion, Waste-to-Energy & Quality Systemsâ. This programme was organized by the Department of Automobile Engineering at Easwari Engineering College (Autonomous) from June 23, 2025 to June 28, 2025.
+Mrs.S.Nirmala has participated in a two - weeks Online Joint Faculty Development Programme on âPython Programming for Engineering Applicationsâ jointly organised by Electronics and ICT Academies held from 28 July - 08 August, 2025 under the âScheme of financial assistance for setting up of Electronics and ICT Academiesâ of the Ministry of Electronics and Information Technology (MeitY),Government of India.
+Mrs.S.Nirmala has successfully participated & completed AICTE Training And Learning (ATAL) Academy Faculty Development Program on AI-Driven Solutions for Sustainable Development: A Faculty Development Perspective at K. RAMAKRISHNAN COLLEGE OF ENGINEERING from 08/09/2025 to 13/09/2025
+Mrs.S.Nirmala has successfully participated & completed AICTE Training And Learning (ATAL) Academy Faculty Development Program on Optimizing Next-Gen Computing for Smart System Development at National Institute of Technology Warangal from 13/10/2025 to 18/10/2025.
+Mrs.S.Nirmala has successfully participated & completed AICTE Training And Learning (ATAL) Academy Faculty Development Program on Quantum Computing: Foundations, Algorithms, and Industry Applications for Next-Generation Technologies (QCFAIANGT) at JAGAN INSTITUTE OF MANAGEMENT STUDIES from 17/11/2025 to 22/11/2025
+Mrs.S.Nirmala has successfully participated & completed AICTE Training And Learning (ATAL) Academy Faculty Development Program on Emerging Trends and Applications in Artificial Intelligence and Data Science at MES M.K MACKAR PILLAY COLLEGE FOR ADVANCED STUDIES from 18/08/2025 to 23/08/2025.
+Mrs.S.Nirmala has successfully participated & completed AICTE Training And Learning (ATAL) Academy Faculty Development Program on Future Perspectives of Natural Language Information Interpretation &  Representation at Jaypee University Of Engineering and Technology Guna from 25/08/2025 to 30/08/2025
+Mrs.S.Nirmala has successfully participated & completed AICTE Training And Learning (ATAL) Academy Faculty Development Program on Future Intelligent Network Toward 6G: 5G and beyond with Reconfigurable SDR and Machine Learning at National Institute of Technology Rourkela from 24/11/2025 to 29/11/2025.
+Mrs.S.Nirmala has participated and completed FDP for IEEE Sponsored Faculty Development Program on âCyber threat Intelligence &Incident Response Strategyâ.
+Mrs.T.Sindhu has successfully participated & completed  FDP on âArtificial Intelligence and Machine Learning at Rajiv Gandhi University from September 15/09/25 to 19/09/2025.
+Mrs.T.Sindhu has successfully participated & completed  FDP on âNext Generation AI:Exploring the power of generative models and transformers at M.G.R Educational and Research Institute, Chennai from 01/12/25 to 05/12/2025.
+Mrs.T.Sindhu has successfully participated & completed AICTE Training And Learning (ATAL) Academy Faculty Development Program on AI-Driven Solutions for Sustainable Development: A Faculty Development Perspective at K. RAMAKRISHNAN COLLEGE OF ENGINEERING from 08/09/2025 to 13/09/2025
+Mrs.T.Sindhu has successfully participated & completed on âMongoDB Associate Developer âorganized in association with ICT Academy of TamilNadu during 24/11/25 to 28/11/25.
+Mrs.M.Vidhya has successfully participated & completed AICTE Training And Learning (ATAL) Academy Faculty Development Program on AI-Driven Solutions for Sustainable Development: A Faculty Development Perspective at K. RAMAKRISHNAN COLLEGE OF ENGINEERING from 08/09/2025 to 13/09/2025.
+Mrs.M.Vidhya has successfully participated & completed FDP on âNext Generation AI:Exploring the power of generative models and transformers at M.G.R Educational and Research Institute, Chennai from 01/12/25 to 05/12/2025.
+Mrs.M.Vidhya has successfully participated & completed on âMongoDB Associate Developer âorganized in association with ICT Academy of TamilNadu during 24/11/25 to 28/11/25.
+Mrs.V. Gayathri has successfully participated & completed on âMongoDB Associate Developer âorganized in association with ICT Academy of TamilNadu during 24/11/25 to 28/11/25.
+Mrs.V.Gayathri has successfully participated & completed  FDP on âNext Generation AI:Exploring the power of generative models and transformers at M.G.R Educational and Research Institute, Chennai from 01/12/25 to 05/12/2025.
+Mr. Rajkumar. D has participated and completed FDP for âAI for Sustainable Development Goals âOrganized by VIT Pune.
+Mr. Rajkumar. D has participated and completed FDP for âRecent Trends in Next-Gen AI Automation âOrganized by St. Josephs college of engineering and technology
+Mr. Rajkumar. D has participated and completed FDP for Next generation AI:Exploring the Power of Generative models and Transformersâ Organized by DR.M.G.R Education and research institute, Chennai.
+Mr. Rajkumar. D has participated and completed FDP for âEmerging Trends in Generative AI for secure and intelligent Data Management âOrganized by Panimalar Engineering College.
+Mr. Rajkumar. D has participated and completed FDP for IEEE Sponsored Faculty Development Program on âCyber threat Intelligence &Incident Response Strategyâ.
+Mrs.Amirthavalli has participated and completed FDP for âAI for Sustainable Development Goals âOrganized by VIT Pune.
+Mrs.Amirthavalli has participated and completed FDP for IEEE Sponsored Faculty Development Program on âCyber threat Intelligence &Incident Response Strategyâ.
+Events
+Department Inagural 28July 2025
+Department Inagural 28July 2025
+âIntro to Modern Web and Hybrid Frameworksâ
+One day workshop on âIntro to Modern Web and Hybrid Frameworksâ conducted in the Academic Year 2025-2026.
+âTech Workshop on C Programming Languageâ
+One day workshop on âTech Workshop on C Programming Languageâ conducted in the Academic Year 2025-2026
+âMachine Learning Shaping the Future of Intelligent Systemsâ
+Organized a Guest Lecture on âMachine Learning Shaping the Future of Intelligent Systemsâ during the Academic Year 2025-2026.
+âIoT using Tinker CADâ
+Organized a Guest Lecture on âIoT using Tinker CADâ during the Academic Year 2025-2026.
+âGen AI:Shaping tommorowâs Intelligence and Innovationâ
+Organized a Webinar on âGen AI:Shaping tommorowâs Intelligence and Innovationâ during the Academic Year 2025-2026
+National Level Technical Symposium CISABZâ25
+Organized National Level Technical Symposium CISABZâ25
+Clubs and Activities
+Regulation
+Syllabus
+Board Of Studies Members
+Facebook
+Instagram
+Youtube
+IEEE Sponsored International Conference on April 9áµÊ° and 10áµÊ°.
+Click here

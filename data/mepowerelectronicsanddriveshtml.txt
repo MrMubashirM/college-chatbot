@@ -1,0 +1,192 @@
+Kings College of Engineering (KCE)
+Power Electronics and Drives
+About Department
+Power Electronics deals with conversion and control of electrical power. Power Electronics is often defined as a hybrid technology that involves the disciplines of power and electronics. The field of Power Electronics and Drives is changing very rapidly due to intensive research taking place in the areas of power semiconductor devices and digital signal processing. Hence it is the need of the day to keep abreast of this field and to cater the requirements of industry in a better way. Developments of advanced topologies of electrical machines have also widened the scope of power electronic controllers.
+The Department of Electrical and Electronics Engineering offers a two year masters program in Power Electronics and Drives. The program has an increasing exposure towards growing industrial needs. This program includes a the detailed study of power electronic devices and its applications for AC drives and DC drives, power system voltage stability and its control and the trends in the renewable energy systems.
+Vision & Mission
+Vision
+To infuse technical competencies of Electrical and Electronics Engineering and provide research ambience with value
+Mission
+Establishing learning atmosphere and practicing advanced Electrical and Electronics Engineering systems through effective teaching learning methodologies and ethical values.
+PEOs and POs
+View
+EEE DEPT PEOs and POs
+Scope & Job Oppourtunities
+Earning an engineering degree in Electrical & Electronics Engineering will open the avenues to many opportunities. In todayâs high-tech world, this engineering degree is a great foundation for careers in traditional engineering fields and in management, sales, government, medicine, research, teaching, and more. Electrical engineers generally design, develop, test, and supervise the manufacture of electrical equipment. Some of the equipment include electric motors, machinery controls, lighting, and wiring in buildings; radar and navigation systems; power-generation, controlling and transmission devices used by electric utilities.
+Electrical engineering focuses on the generation and supply of power, whereas electronics engineering is the application of electricity to control systems or signal processing. Electrical & Electronics engineers specialize in areas such as power systems engineering or electrical equipment manufacturing, signal processing and control systems.
+Value Added Course
+Laboratories
+Power Electronics and Drives lab
+The Department has a Power Electronics Laboratory equipped well with drive-control kits based on SCRs, IGBTs, MOSFETs, TRIAC, DIAC, UJT etc., and various configurations such as converters, inverters and chopper. The Department also has a well set computer lab that has a server with 35 nodes of ACER, core 2 duo processor, with 500 GB SATA hard disk and 2GB DDR2 RAM. The lab is provided with the following software packages.
+ORCAD Capture with PSPICE 10.5
+PSPICE 9.0
+PSIM 6.0
+AU Power Lab
+MATLAB 7.2
+Faculty Details
+Department of Electrical and Electronics Engineering
+HEAD OF THE DEPARTMENT
+Name: Mr. R. SUNDARAMOORTHI
+Qualification: B.E., M.E., (Ph.D).,
+Department: Electrical and Electronics Engineering
+The department currently has a dedicated team of faculty members with a minimum of 4 years of experience,
+supported by well-qualified staff with diverse specializations. We take pride in our faculty, who have
+published their research in journals indexed by SCI, Google Scholar, Scopus, Web of Science, and more. Our
+staff members are actively involved in research activities, and their experience inspires students to
+develop and enhance their technical knowledge across various fields.
+View Profile
+List of Faculty:
+S. No.
+Name of the Faculty
+Highest Degree
+Area of Specialization
+Present Designation
+Dr. S. Sivakumar
+M. Tech., Ph.D
+Power System and Project Management
+Professor
+Dr. A. Albert Martin Ruban
+M.E., Ph.D
+Renewable Energy, Smart Grid and Wireless Network
+Professor
+Mr. R. Sundaramoorthi
+M.E., (Ph.D)
+Power Electronics, Electrical Drives and Hybrid Energy Technology
+Assistant Professor
+Dr. P. Narasimman
+M.E., Ph.D
+Power Electronics and Drives, Control Systems, Electromagnetic Compatibility
+Associate Professor
+Mr. J. Arokiaraj
+M.E., (Ph.D)
+Electrical Machines, Smart Grid, Power Electronics and Power Quality
+Assistant Professor
+Mr. S. R. Karthikeyan
+M.E., (Ph.D)
+Power Electronics and Drives, FACTS Devices, Power Quality, Electrical Traction
+Assistant Professor
+Mrs. P. Thirumagal
+M.Tech.
+Communication System and Electromagnetic Field
+Assistant Professor
+Dr. G. Suganya
+M.Tech., Ph.D
+Power System, High Voltage Engineering and Machine Learning
+Assistant Professor
+Dr. L. Maheswari
+M.E., Ph.D
+Control System, Power Electronics and Electromagnetic Field
+Assistant Professor
+Mrs. N. Mangaleswari
+M.E., (Ph.D)
+Power Electronics and Drives, Control System and Special Electrical Machines
+Assistant Professor
+Mr. G. Jayachandran
+M.E.
+Power Electronics and Drives and Electrical Machines
+Assistant Professor
+List of Supporting Staff:
+S. No.
+Name
+Designation
+Mr. R. Alex
+Lab Technician
+Mr. K. Regubalan
+Lab Technician
+Mrs. R. Rajasri
+Attender
+Achievements
+S.No
+DATE
+EVENT DETAILS
+VENUE
+PARTICIPANTS
+Title of the paper/Event
+REMARKS
+1.10.2019
+State level technical symposium
+Chendhuran college of engineering and technology
+M. Rasika
+SANSCINCO
+FIRST PRIZE âPAPER PRESENTATION EVENTâ
+R. Pavithra
+19.09.2019
+A National level Technical Symposium
+PRIST University
+M. Rasika
+Vidyut 2k19
+SECOND PRIZE âPAPER PRESENTATION EVENTâ
+R. Pavithra
+21.08.2019
+National seminar
+PRIST University
+M. Kaviya
+Recent Trends in Eco Friendly Power Plant and its Control Techniques
+Participation
+K. Bavana
+M. Mano
+S. Hariharan
+K. Prabhakaran
+22.08.2019
+One day National Level Workshop
+K.S.K College of Engineering And Technology
+R. Priyadharshini
+Real Time DSP Applications
+Participation
+N. Ishwarya
+24.08.2019
+One day Workshop
+Pantech ProEd
+R. Pavithra
+Power Electronics and Renewable Energy using Matlab
+Participation
+M. Rasika
+R. Sakthisridevi
+Events
+S.Sudhersun, R.Venkatesh, of final year ece received iii rd prize with
+10,000 cash award in start up tn âolimayan 2.0 on 31-03-2023
+conducted by knowledment institute of technology,salem
+S.Sudhersun, R.Venkatesh, D.Santhosh of final year ECE received best market fit and innovative project
+award on 19.04.2023 conducted by anna university, chennai
+Clubs and Activities
+Contributing novel ideas and innovations that empower advancements in engineering profession, Project club was inaugurated on 23.01.2020 for the EEE students.
+OBJECTIVE:
+To allow graduates to make judgment-based decisions with confidence.
+To identify, formulate, and solve engineering problems through innovative ideas.
+To design and undertake or conduct an independent research.
+To develop students' knowledge for solving technical problems through structured project research study that produces competent and sound engineering skills.
+OFFICE BEARERS:
+Chief
+Dr. A. Albert Martin Ruban
+HOD/EEE
+Staff Coordinators
+Mr. J. Arokiaraj
+AP/EEE
+Mr. S. R. Karthikeyan
+AP/EEE
+Student Coordinators
+E. Ganesan
+III-EEE
+S. Jagadeshwaran
+II-EEE
+EVENTS ORGANIZED:
+Academic Year 2019â20 Odd Semester
+NAME OF THE EVENT
+DATE
+Project Club Inauguration
+23.01.2020
+Project Expo
+26.03.2020
+Regulation
+View
+2013
+Syllabus
+View
+2021
+View
+2017
+Facebook
+Instagram
+Youtube
+IEEE Sponsored International Conference on April 9th and 10th.
+Click here

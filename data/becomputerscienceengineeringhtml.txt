@@ -1,0 +1,810 @@
+Kings College of Engineering (KCE)
+Computer Science & Engineering
+About Department
+The Department of Computer Science and Engineering (CSE) was established in the year 2001. It administers Bachelor's programme in Computer Science and Engineering and Master's programme in Computer Science and Engineering. The department is approved by AICTE, New Delhi and affiliated to Anna University, Chennai. The primary goal of CSE is to provide best IT infrastructure, world class learning & research environment, adopt industry practices through industry collaborations and inculcate moral and ethical values.
+The Department has a pool of aptly qualified, veteran and readily accessible faculty members and state-of-the-art infrastructure with computing equipment supported by high speed Internet and wireless networks. The full-fledged labs expose students to a hands-on learning opportunity, assisting students to imbibe first-hand experience in various computer science arenas. The Department of CSE aims at providing inclusive technology education for its students under comfortable ambience. Graduates from the department are recruited by both academia and industry and few of them occupy top positions in both all over the world.
+Importance is predominantly given to practical training on the emerging topics and special attention is bestowed on the project work of final year students.
+Short term courses and technical lectures by eminent professors and corporate professionals are arranged on a regular basis to broaden the knowledge spectrum of students. The department regularly conducts workshop on various open source software offered by IIT Bombay in which our students participate and obtain certificates from IIT Bombay Spoken Tutorials. Various professional societies like IEI, ISTE are active throughout the year.
+Vision & Mission
+Vision
+To become globally competent in the field of computing by imparting quality education, reinforcing social values and establishing the sense of technical exploration in the learners.
+Mission
+To impart knowledge in Computer Science and Engineering by means of appropriate teaching and learning methodologies in the knowledge seekers and make them socially responsible.
+PEOs and POs
+Programme Educational Objectives (PEOs)
+PEO1:
+Apply their technical competence in Computer Science to solve real-world problems while demonstrating both technical and people leadership.
+PEO2:
+Conduct cutting-edge research and develop innovative solutions for problems of high social relevance.
+PEO3:
+Work effectively in diverse business environments by exhibiting strong team skills, professional ethics, adaptability, and a commitment to lifelong learning.
+Program Outcomes (POs)
+PO1 â Engineering knowledge:
+Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO2 â Problem analysis:
+Identify, formulate, review research literature, and analyze complex engineering problems to reach substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO3 â Design/development of solutions:
+Design solutions for complex engineering problems and develop system components or processes that meet specified needs with appropriate consideration for public health, safety, and cultural, societal, and environmental factors.
+PO4 â Conduct investigations of complex problems:
+Use research-based knowledge and methods, including experimental design, data analysis and interpretation, and information synthesis, to draw valid conclusions.
+PO5 â Modern tool usage:
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT toolsâincluding prediction and modelingâto complex engineering activities, with an understanding of their limitations.
+PO6 â The engineer and society:
+Apply contextual knowledge to assess societal, health, safety, legal, and cultural issues and understand the responsibilities relevant to professional engineering practice.
+PO7 â Environment and sustainability:
+Understand the impact of professional engineering solutions in societal and environmental contexts and demonstrate the need for sustainable development.
+PO8 â Ethics:
+Apply ethical principles and commit to professional ethics, responsibilities, and norms of engineering practice.
+PO9 â Individual and team work:
+Function effectively as an individual and as a member or leader in diverse teams and multidisciplinary settings.
+PO10 â Communication:
+Communicate effectively on complex engineering activities with the engineering community and society, including writing effective reports, preparing design documentation, delivering presentations, and giving and receiving clear instructions.
+PO11 â Project management and finance:
+Demonstrate knowledge and understanding of engineering and management principles and apply them to oneâs work as a member or leader in a team to manage projects in multidisciplinary environments.
+PO12 â Life-long learning:
+Recognize the need for, and possess the ability to engage in independent and life-long learning in the broad context of technological change.
+Program Specific Objectives (PSOs)
+Students will be able to
+PSO1:
+Exhibit strong design and programming skills to build and automate business solutions using cutting-edge technologies.
+PSO2:
+Apply a solid theoretical foundation to pursue excellence in research and develop elegant solutions for complex problems.
+PSO3:
+Demonstrate the ability to work effectively with various engineering disciplines as a team to design, build, and develop system applications.
+Scope & Job Oppourtunities
+Computer Science is a very vast discipline with plethora of opportunities. The programme trains the students of the basics and different facets of computer engineering. It comprises foundations of computer systems, computer architecture & organization, networking, the theory of computation, database systems, electronics, operating systems, programming and website designing, e-commerce & multimedia applications, principles of programming languages, software engineering, hardware engineering, etc.
+The professionals of CSE can be assigned as a computer programmer, data scientist, systems analyst, software developer, hardware engineer, IT consultant, system engineer, system designer, IT specialist, networking engineer, database administrator, web developer, mobility tester, e-commerce specialist, programmer, software tester, etc, and exercised various other job profiles in the private firms and top companies like TCS, Wipro, Microsoft, Google, Infosys, Accenture, HCL, Facebook, Cognizant, Adobe, Oracle, Sun Microsystems, Flipkart, IBM, etc.
+The professionals can mark their career in multiple domains like artificial intelligence, embedded systems, ethical hacking, wireless network, computer manufacturing, database systems, web applications, animation, computer graphics, scientific modeling, computational biology, video games development, mobile application development, data science, network administration, etc.
+Students also have an option of taking up GATE exam whose scorecard is appraised by various government organizations for recruitment. Computer engineers can also get numerous jobs.
+Value Added Course
+Laboratories
+Advanced Programming Lab
+DBMS & RDBMS Lab
+Conventional Programming Lab
+Unix Lab
+Multimedia & Image Processing Lab
+Internet Lab
+Peripherals & Interfacing Lab
+Hardware Maintenance Lab
+Software Development Lab
+Grid and Cloud Computing Lab
+Internet Security Lab
+Faculty Details
+Department of Computer Science & Engineering
+HEAD OF THE DEPARTMENT
+Name: Dr.S.M.Uma
+Qualification: M.E..,Ph.D.,
+Department: DepartmentofComputer Science and Engineering
+The department currently has a dedicated team of faculty members with a minimum of 4 years of experience,
+supported by well-qualified staff with diverse specializations. We take pride in our faculty, who have
+published their research in journals indexed by SCI, Google Scholar, Scopus, Web of Science, and more. Our
+staff members are actively involved in research activities, and their experience inspires students to
+develop and enhance their technical knowledge across various fields.
+View Profile
+List of Faculty:
+S. No.
+Name of the Faculty
+Highest Degree
+Area of Specialization
+Present Designation
+Dr. S. M. Uma
+Ph.D
+Data Mining
+Associate Professor
+Dr. K. Abhirami
+Ph.D
+Artificial Intelligence
+Associate Professor
+Dr. S. Rajarajan
+Ph.D
+Deep Learning, Cyber Security
+Associate Professor
+Dr. S. Kannan
+Ph.D
+Data Mining, Data Science
+Professor
+Mr. M. Arun
+M.E., (Ph.D)
+Affective Computing
+Assistant Professor
+Ms. S. Priyadharshini
+M.Tech.
+Artificial Intelligence
+Assistant Professor
+Ms. N. Dhamayandhi
+M.E., (Ph.D)
+Artificial Intelligence and Machine Learning
+Assistant Professor
+Ms. B. Bavithra
+M.E., (Ph.D)
+Artificial Intelligence and Machine Learning
+Assistant Professor
+Ms. S. Abikayil Aarthi
+M.Tech., (Ph.D)
+Artificial Intelligence and Machine Learning, Deep Learning
+Assistant Professor
+Ms. M. Kavitha
+M.Tech., (Ph.D)
+Artificial Intelligence and Machine Learning
+Assistant Professor
+Ms. R. Abinaya
+M.Tech., (Ph.D)
+Artificial Intelligence and Machine Learning
+Assistant Professor
+Ms. B. Sangeetha
+M.Tech., (Ph.D)
+Cloud Computing, Machine Learning, Internet of Things
+Assistant Professor
+Ms. T. Sindhu
+M.E.
+Computer Networks
+Assistant Professor
+Ms. M. Vidhya
+M.E.
+Cloud Computing
+Assistant Professor
+Ms. K. Saranya
+M.Tech., (Ph.D)
+Internet of Things, Machine Learning
+Assistant Professor
+Ms. S. Nirmala
+M.Tech.
+Artificial Intelligence, Machine Learning
+Assistant Professor
+Ms. K. Srividhya
+M.E.
+Computer Networks, Artificial Intelligence
+Assistant Professor
+Ms. V. Gayathri
+M.Tech.
+Software Engineering
+Assistant Professor
+Ms. K. Pappathi
+M.E., (Ph.D)
+Deep Learning, Machine Learning
+Assistant Professor
+Mr. S. Balakrishnan
+M.Tech.
+Hardware and Networking, Database Management Systems
+Assistant Professor
+Ms. A. Shanthi
+M.E.
+Big Data, Cloud Computing
+Assistant Professor
+Ms. K. Suganthi
+M.E.
+Machine Learning
+Assistant Professor
+Ms. R. Aruna
+M.E.
+Wireless Sensor Networks
+Assistant Professor
+List of Supporting Staff:
+S. No.
+Name
+Designation
+Mr. S. Selvamani
+System Admin
+Mr. K. Ramakrishnan
+Lab Technician
+Ms. C. Abirami
+Clerk
+Achievements
+Faculty Achievements
+Faculty Achievements 2025-2026 (ODD)
+Publications & Journals
+Dr. S. M. Uma, Ms. Parkavi
+presented a paper titled
+âA Blockchain-Driven Anti-Counterfeit System Using QR Code Verificationâ
+published in
+International Journal of Creative Research Thoughts (IJCRT)
+Vol. 13, Issue 11, November 2025, ISSN: 2320-2882.
+Dr. S. M. Uma
+presented a paper titled
+âExploring the Potential of Anaerobic Digestion to Convert Wastewater into Biogas:
+A Renewable Source of Energyâ
+published in
+Journal of Arid Land
+Vol. 13, Issue 11, November 2025.
+Dr. K. Abhirami, Ms. J. Lavanya
+presented a paper titled
+âCognitive AI Framework for Flood and Fire Hazard Forecasting and Responseâ
+published in
+International Journal of Creative Research Thoughts (IJCRT)
+Vol. 13, Issue 11, November 2025, ISSN: 2320-2882, Pages C614âC619.
+Dr. K. Abhirami, Ms. J. Lavanya
+presented a paper titled
+âAI-Driven Fire Hazard Prediction and Decision Support System for Flood and Fire Managementâ
+at the
+International Conference on Global Trends in Engineering and Technological Advancement
+organized by Gojan School of Business and Technology, Chennai on 25.10.2025.
+Ms. S. Abikayil Aarthi, Ms. R. Vigneshwari, Ms. C. Sriharini,
+Ms. R. Swathi, Ms. S. Ramakavi
+presented a paper titled
+âDistributed Computing Frameworks: An Analytical Overview for Modern Applicationsâ
+published in
+International Journal of Creative Research Thoughts (IJCRT)
+Vol. 13, Issue 12, December 2025, ISSN: 2320-2882.
+Ms. S. Abikayil Aarthi, Mr. M. Mubashir, Mr. V. Chandra Mukilan,
+Mr. M. Maheswaran, Mr. A. V. Deerga Tharsan
+presented a paper titled
+âA Federated Learning Framework for IoT Anomaly Detection with Dynamic Client Selectionâ
+published in
+International Journal of All Research Education & Scientific Methods (IJARESM)
+Vol. 09, Issue 11, November 2025, ISSN: 2455-6211.
+Ms. S. Abikayil Aarthi, Ms. M. Bargavi, Ms. A. Josika, Ms. M. Swathi
+presented a paper titled
+âCloud-Native DDoS Protection and Resilience Systemâ
+published in
+International Journal of All Research Education & Scientific Methods (IJARESM)
+Vol. 13, Issue 11, November 2025, ISSN: 2455-6211.
+Ms. S. Abikayil Aarthi, Ms. M. Abirami, Ms. M. Adhiga,
+Ms. E. Harini, Ms. S. Kavitha, Ms. M. Hamsavarthini
+presented a paper titled
+âExploring the Evolution of Distributed Computing Systemsâ
+published in
+International Journal of Scientific Research in Engineering and Management (IJSREM)
+Vol. 09, Issue 11, November 2025, ISSN: 2582-3930.
+Ms. S. Abikayil Aarthi, Ms. L. Saaikirthiga, Ms. A. Yazhini,
+Ms. B. S. Subasri, Ms. B. Parkavi
+presented a paper titled
+âDistributed Computing Models Based on the Capabilities of the Internetâ
+published in
+International Journal of Scientific Research in Engineering and Management (IJSREM)
+Vol. 09, Issue 11, November 2025, ISSN: 2582-3930.
+Ms. K. Abinaya, Mr. G. S. Gunanathan, Mr. N. Hariharan,
+Mr. R. Aravinth
+presented a paper titled
+âNeural Network-Based Multi-Objective Evolutionary Algorithm for Dynamic Workflow Scheduling in Cloud Computingâ
+published in
+International Journal of All Research Education & Scientific Methods (IJARESM)
+Vol. 13, Issue 09, September 2025, ISSN: 2455-6211.
+Ms. K. Abinaya, Mr. V. Ajay, Mr. M. Mubashir,
+Mr. A. V. Deergadarsan
+presented a paper titled
+âEmerging Paradigms in Cloud Computing: Towards Sustainable, Secure, and Intelligent Architecturesâ
+published in
+International Journal of Scientific Research in Engineering and Management (IJSREM)
+Vol. 09, Issue 11, September 2025, ISSN: 2582-3930.
+Ms. K. Abinaya, Mr. K. Karan, Mr. M. Maheswaran,
+Mr. V. Chandra Mukilan, Mr. Mohamed Abdul Rahim
+presented a paper titled
+âPractical Applications of Cloud Computing in Education and Healthcare Sectorsâ
+published in
+International Journal of All Research Education & Scientific Methods (IJARESM)
+Vol. 13, Issue 09, September 2025, ISSN: 2455-6211.
+Book Publications
+Dr. S. Rajarajan
+published a book titled
+âDeep Learningâ
+, Charulatha Publications,
+ISBN: 978-93-6260-720-1, July 2025.
+Dr. S. Kannan
+published a book titled
+âTectrends: Navigating the Frontier of Emerging Technologiesâ
+Bentham Science Publishers Pte. Ltd., Singapore,
+ISBN: 979-8-89881-134-1, December 2025.
+Ms. S. Abikayil Aarthi
+published a book titled
+âDatabase Management Systemâ
+Alpha International Publications,
+ISBN: 978-93-5762-898-3, September 2025.
+Dr. S. M. Uma, Ms. K. Pappathi, Ms. K. Srividhya
+published a book titled
+âRelational Databases and SQL: Concepts, Design, and Implementationâ
+Aasan International Publications, Virudhunagar â 626204,
+Tamil Nadu, India.
+Programme Seeking Fund
+A grant of
+USD 500
+was received from the
+IEEE Power & Energy Society
+for organizing a workshop.
+Certifications & Awards Received
+Dr. S. M. Uma
+was awarded the
+NPTEL Certification (Elite)
+for the course
+âTechnical Communication for Engineersâ
+with a consolidated
+score of 88%, securing
+Topper (Top 5%)
+among 2586 candidates during
+JulyâAugust 2025 (4-week course).
+Dr. K. Abhirami
+received the
+âRising Contributor Awardâ
+Skill-a-thon 2025
+by MongoDB for supporting over 200 students in completing
+the MongoDB course, facilitated by ICT Academy of Tamil Nadu.
+Dr. K. Abhirami
+was awarded the
+NPTEL Certification (Elite)
+for the course
+âTechnical Communication for Engineersâ
+with a consolidated
+score of 88%, securing
+Topper (Top 5%)
+among 2586 candidates during
+JulyâAugust 2025 (4-week course).
+Ms. S. Abikayil Aarthi
+received the
+AWS Academy Data Engineering Educator Badge
+Ms. S. Abikayil Aarthi
+won the
+IEEE Madras Section Best Young Professional (YP) Award 2024
+in August 2025.
+Ms. S. Abikayil Aarthi
+was officially appointed as an
+IEEE Day 2025 Ambassador
+in September 2025.
+Ms. S. Abikayil Aarthi
+received an
+Appreciation Certificate
+during the
+Returning Motherâs Day Awards 2025
+ceremony held at
+VNR VJIET, Hyderabad, on 8â9 November 2025.
+Ms. K. Suganthi
+received the
+NPTEL Swayam Certification
+Introduction to Machine Learning
+during JulyâOctober 2025
+(12-week course).
+Ms. K. Srividhya
+received the
+NPTEL Swayam Elite Certification
+Big Data Computing
+with 63% during AugustâOctober 2025.
+Ms. A. Shanthi
+received the
+NPTEL Swayam Elite Certification
+Big Data Computing
+with 84% during AugustâOctober 2025.
+Ms. K. Saranya
+received the
+NPTEL Swayam Certification
+Machine Learning and Deep Learning â Fundamentals and Applications
+during JulyâOctober 2025 (12-week course).
+Ms. K. Pappathi
+received the
+NPTEL Swayam Certification
+Machine Learning and Deep Learning â Fundamentals and Applications
+during JulyâOctober 2025 (12-week course).
+ISTE Staff Chapter
+ISTE Staff Chapter Internal Staff Seminar
+âMajor Trends that are Shaping Computer Hardware and Softwareâ
+was delivered by
+Mr. S. Balakrishnan
+on 13.10.2025.
+ATAL Faculty Development Programmes (FDP)
+Dr. S. M. Uma
+attended the ATAL FDP titled
+âSecure and Explainable Generative AI for Medical IoT Data Analyticsâ
+at National Institute of Technology, Puducherry from 25.08.2025 to 30.08.2025.
+Dr. S. M. Uma
+attended the ATAL FDP titled
+âAI-Driven Solutions for Sustainable Developmentâ
+at K. Ramakrishnan College of Engineering from 08.09.2025 to 13.09.2025.
+Dr. K. Abhirami
+attended the ATAL Virtual FDP titled
+âSecure and Explainable Generative AI for Medical IoT Data Analyticsâ
+organized by National Institute of Technology, Puducherry from 25.08.2025 to 30.08.2025.
+Dr. S. Rajarajan
+attended the ATAL FDP titled
+âDefensive AI: Deep Learning in Cyber Securityâ
+organized by Anand Institute of Higher Technology from 18.08.2025 to 23.08.2025.
+Ms. S. Abikayil Aarthi
+attended the ATAL FDP titled
+âFoundational AI for Bharat: Building Large Language and Multimodal Models for Indian Contextsâ
+at Periyar Maniammai Institute of Science and Technology, Vallam from 01.12.2025 to 06.12.2025.
+Ms. K. Saranya
+attended the ATAL FDP titled
+âOptimizing Next-Gen Computing for Smart System Developmentâ
+at National Institute of Technology, Warangal from 13.10.2025 to 18.10.2025.
+Ms. K. Saranya
+attended the ATAL FDP titled
+âQuantum Computing: Foundations, Algorithms, and Industry Applications for Next-Generation Technologies (QCFAIANGT)â
+at Jagan Institute of Management Studies from 17.11.2025 to 22.11.2025.
+Ms. K. Srividhya
+attended the ATAL FDP titled
+âDefensive AI: Machine Learning in Cybersecurityâ
+at Mount Zion College of Engineering and Technology from 07.07.2025 to 12.07.2025.
+Ms. K. Srividhya
+attended the ATAL FDP titled
+âSecure and Explainable Generative AI for Medical IoT Data Analyticsâ
+at National Institute of Technology, Puducherry from 25.08.2025 to 30.08.2025.
+Ms. K. Srividhya
+attended the ATAL FDP titled
+âAI-Driven Solutions for Sustainable Development: A Faculty Development Perspectiveâ
+at K. Ramakrishnan College of Engineering from 08.09.2025 to 13.09.2025.
+Ms. K. Pappathi
+attended the ATAL FDP titled
+âEmerging Trends and Applications in Artificial Intelligence and Data Scienceâ
+at MES M. K. Mackar Pillay College for Advanced Studies, Kerala
+from 18.08.2025 to 23.08.2025.
+Ms. K. Pappathi
+attended the ATAL FDP titled
+âFuture Perspectives of Natural Language Information Interpretation & Representationâ
+at Jaypee University of Engineering and Technology, Guna, Uttar Pradesh
+from 25.08.2025 to 30.08.2025.
+Ms. K. Pappathi
+attended the ATAL FDP titled
+âExploring the Foundations and Applications of Quantum Computing: Bridging Theory and Practiceâ
+at Jain Deemed-to-be University, School of Computer Applications and IT, Bengaluru
+from 08.09.2025 to 13.09.2025.
+Ms. K. Pappathi
+attended the ATAL FDP titled
+âOptimizing Next-Gen Computing for Smart System Developmentâ
+at National Institute of Technology, Warangal from 13.10.2025 to 18.10.2025.
+Ms. K. Pappathi
+attended the ATAL FDP titled
+âQuantum Computing: Foundations, Algorithms, and Industry Applications for Next-Generation Technologies (QCFAIANGT)â
+at Jagan Institute of Management Studies, Delhi from 17.11.2025 to 22.11.2025.
+Ms. K. Pappathi
+attended the ATAL FDP titled
+âFuture Intelligent Network toward 6G: 5G and Beyond with Reconfigurable SDR and Machine Learningâ
+at National Institute of Technology, Rourkela from 24.11.2025 to 29.11.2025.
+Mr. S. Balakrishnan
+attended the ATAL FDP titled
+âAI-Driven Solutions for Sustainable Development: A Faculty Development Perspectiveâ
+at K. Ramakrishnan College of Engineering from 08.09.2025 to 13.09.2025.
+Ms. A. Shanthi
+attended the ATAL FDP titled
+âSecure and Explainable Generative AI for Medical IoT Data Analyticsâ
+at National Institute of Technology, Puducherry from 25.08.2025 to 30.08.2025.
+Ms. A. Shanthi
+attended the ATAL FDP titled
+âAI-Driven Solutions for Sustainable Developmentâ
+at K. Ramakrishnan College of Engineering from 08.09.2025 to 13.09.2025.
+Ms. A. Shanthi
+attended the ATAL FDP titled
+âNext-Generation Healthcare: Integrating IoT and AI for Predictive Diagnostics and Monitoringâ
+at Sri Venkateswara College of Engineering from 13.10.2025 to 18.10.2025.
+Ms. K. Suganthi
+attended the ATAL FDP titled
+âAI Data Analytics for Sustainable Development Goalsâ
+at RNS Institute of Technology from 18.08.2025 to 23.08.2025.
+Ms. K. Suganthi
+attended the ATAL FDP titled
+âSecure and Explainable Generative AI for Medical IoT Data Analyticsâ
+at National Institute of Technology, Puducherry from 25.08.2025 to 30.08.2025.
+Ms. K. Suganthi
+attended the ATAL FDP titled
+âRole of Artificial Intelligence and Machine Learning in Smart Gridsâ
+at Indian Institute of Technology, Patna from 22.09.2025 to 27.09.2025.
+Ms. K. Suganthi
+attended the ATAL FDP titled
+âOptimizing Next-Gen Computing for Smart System Developmentâ
+at National Institute of Technology, Warangal from 13.10.2025 to 18.10.2025.
+Ms. R. Aruna
+attended the ATAL FDP titled
+âSecure and Explainable Generative AI for Medical IoT Data Analyticsâ
+at National Institute of Technology, Puducherry from 25.08.2025 to 30.08.2025.
+Students' Achievements
+Academic Year 2018-19 (Odd)
+Name
+Year
+Date of Participation
+Participated Event
+Organizing Institution
+Anbarasan R
+28.09.18
+Workshop
+Deepa N
+01.10.18
+Symposium
+SJCET
+Kannan M
+28.09.18
+Workshop
+Keerthana B
+01.10.18
+Symposium
+SJCET
+Nancy Priya A
+01.10.18
+Symposium
+SJCET
+Ponsharan V
+28.09.18
+Workshop
+Praveen K
+28.09.18
+Workshop
+Priyadharshini K
+01.10.18
+Symposium
+SJCET
+Vignesh B
+28.09.18
+Workshop
+Bharathvaj N
+01.10.18
+Symposium
+SJCET
+Edwin Raj K
+01.10.18
+Symposium
+SJCET
+Rakshnah Begum Ms
+01.10.18
+Symposium
+SJCET
+Sameena Farijiz M
+01.10.18
+Symposium
+SJCET
+Rakshnah Begum Ms
+12.10.18
+Symposium
+Sameena Farijiz M
+12.10.18
+Symposium
+Saranya V
+12.10.18
+Symposium
+Selvarani G
+12.10.18
+Symposium
+Suriyapriya P
+12.10.18
+Symposium
+Ananthapathma Priya A
+01.10.18
+Symposium
+SJCET
+Aarthy M
+30,31.08.18
+Conference
+PITS
+Abinaya R
+30,31.08.18
+Conference
+PITS
+Anandhi R
+30,31.08.18
+Conference
+PITS
+Anthalapriya A
+01.10.18
+Symposium
+SJCET
+Balachandar V
+10,11.08.18
+Symposium
+PITS
+Festus Devapriyan J D
+28.09.18
+Symposium
+ANNAI COLLEGE
+Jaqulin Diana A
+01.10.18
+Symposium
+SJCET
+Karthika P
+28.09.18
+Workshop
+Mohan Kumar S
+28.09.18
+Symposium
+ANNAI COLLEGE
+Pavitha C
+01.10.18
+Symposium
+SJCET
+Ragul R
+10,11.08.18
+Symposium
+PITS
+Sathya M
+28.09.18
+Workshop
+Sathya M
+01.10.18
+Symposium
+SJCET
+Shiyamala B
+01.10.18
+Symposium
+SJCET
+Shiyamala B
+30,31.08.18
+Conference
+PITS
+Sowmiya P
+30,31.08.18
+Conference
+PITS
+Swarnaprabaa P
+01.10.18
+Symposium
+SJCET
+Thenmozhi P
+30,31.08.18
+Conference
+PITS
+Vidhya A
+30,31.08.18
+Conference
+PITS
+Vipoosh V
+01.10.18
+Symposium
+SJCET
+Yamuna K
+01.10.18
+Symposium
+SJCET
+Vipoosh V
+30,31.08.18
+Conference
+PITS
+Buvaneshwari S
+30,31.08.18
+Conference
+PITS
+Events
+Academic Year 2025-2026 (ODD)
+MSME Certified - Inter Intra Institute Activities- TECH ELEVATE 2025 - Organized during 14-07-2025 to 01-08-2025.
+Workshop titled âLeveraging Ai To Enhance UI/UX Designâ was organized on 16-09-2025
+Workshop titled âModern Web Development Hands âOn React with Reduxâ was organized on 13.10.2025
+Workshop titled âModern Web Development Hands âOn React with Reduxâ was organized on 13.10.2025
+Workshop titled âPowerBIâ was organized on 17-10-2025
+Workshop titled âModern Web Development Hands âOn React with Reduxâ was organized on 09-10-2025
+Guest Lecture titled âIntroduction to Machine Learningâ was organized on 29.08.2025
+Guest Lecture titled âRansomware Attacks and Modern Defense Mechanismsâ was organized on 18-09-2025
+Guest Lecture titled âSustainable Development Goalsâ was organized on 10-10-2025
+Guest Lecture titled âIoT Using Tinker Cadâ was organized on 03.09.2025
+Seminar titled âRole of AI in software testingâ was organized on 08.09.2025
+Seminar titled âDevops in the age of AIâ was organized on 18.09.2025
+Webinar  titled âShaping tomorrowâs Intelligence and Innovationâ was organized on 08.11.2025
+Internal staff seminar titled âAI Tools for Educationâ was conducted on 12/08/2025
+Internal staff seminar titled âIT in Advancing Space Explorationâ was conducted on 28/08/2025
+Internal staff seminar titled âAI in Autonomous Systemsâ was conducted on 12/09/2025
+Internal staff seminar titled âAI and ML in Cryptography â was conducted on 23/09/2025
+Internal staff seminar titled âMajor Trends that Shaping Computer H/W  and S/Wâ was conducted on 13/10/2025
+Internal staff seminar titled âIntroduction to Big Dataâ was conducted on 31/10/2025
+Internal staff seminar titled âCross Layer Security in   IOTâ was conducted on 12/11/2025
+Organized Technical SymposiumâCISABZ â25â  on 11.10.2025
+Glimpses of Paper Presentation & Prize Distribution in view of Symposium on 11-10-2025
+Outreach Activities  titled âDigital Safety Awareness Driveâ from 06.10.2025-13.10.2025
+National Level SIH 2026 held at KIT, Maharastra on 8 & 9. 2026.
+Team Interaction with ISRO Expert @ Seminar Hall on 18.03.2025.ISRO Launch Technology Demonstration by ISRO Expert @ Seminar Hall on 18.03.2025.
+Snapshots during the Orientation Program me held on 09-01-2026
+Snapshots during the Bridge Course Programme held on 28-07-2025
+Alumni Talk  titled â Road map to get into Zoho through off campus interviewâ on 30.8.2025
+Alumni Talk titled âcampus to corporateâ on 10.09.2025
+Student Seminar  titled âGreen Computing â on  28.07.2025
+Student Seminar  titled âMachine Learning â on  30.07.2025
+Student Seminar  titled âQuantum Computing â on  08.08.2025
+Student Seminar  titled âBlue Brain â on  29.08.2025
+IEEE Sponsored FDP titled âCyber Threat Intelligence and Incident Response Strategies from18.12.2025 to 22.12.2025
+Clubs and Activities
+Code Club
+Envisaging the prerequisite of programming skills, Code club was initiated by the department.  It was formally inaugurated by the chief guest Dr.S.Baskaran, Vice Principal, Kuppam Engineering College, Andhra Pradesh, on 10.01.2020.
+Objectives:
+To enhance programming languages using advanced tools.
+To develop application-oriented projects.
+To provide students with the opportunity to express and develop ideas through coding.
+To create a project using Android software for improving real-time implementation.
+Office Bearers:
+Role
+Name
+Designation
+Chief Coordinator
+Dr. S. M. Uma
+HOD/CSE
+Faculty Incharge
+Dr.S.Rajarajan
+Asso.Prof/CSE
+Students President
+Aswini
+IV-CSE
+Students Vice President
+Karan
+III-CSE
+Students Coordinator
+Bhuvaneswari
+IV-CSE
+Vernica
+III-CSE
+Multimedia Club
+Cultivating the programming and animation skills,  Multimedia club was  inaugurated by the chief guest Dr.S.Baskaran, Vice Principal, Kuppam Engineering College, Andhra Pradesh, on 10.1.2020.
+Objectives:
+To improve students' aesthetic skills through multimedia.
+To develop multimedia skills by pragmatically applying them on various projects.
+To demonstrate the use of animation, digitized sound, video control, and scanned images.
+Office Bearers:
+Role
+Name
+Designation
+Chief Coordinator
+Dr. S. M. Uma
+HOD/CSE
+Staff Coordinators
+Mr. S. Rajarajan
+AP/CSE
+Mr. M. Arun
+AP/CSE
+Students President
+M. Gunaseelan
+IV-CSE
+Students Vice President
+S. Ragul
+II-CSE
+Students Coordinator
+T. Selvarani
+IV-CSE
+K. Divakaran
+III-CSE
+Events Organized:
+S.No
+Event
+Date
+Academic Year 2019â2020 (Even Semester)
+Inauguration
+10.01.2020
+Basic Design Activity using Photoshop
+11.01.2020
+Basic Web Design Activity
+15.02.2020
+Resume Contest
+28.02.2020
+Mini Project Expo-Mâ20
+04.03.2020
+Academic Year 2020â2021 (Odd Semester)
+3D Animation using Computer Graphics
+19.12.2020
+Academic Year 2020â2021 (Even Semester)
+Webinar on Startups for IoT and AI
+02.03.2021
+Webinar on How to Prepare a Resume for a Job
+03.04.2021
+ECO Club
+ECO Club was inaugurated during the academic year 2010-11. The core aim of the ECO club is to make students more responsible towards the existing natural resources and to preserve its elegance intact so as to pass on this wonderful planet in the same way it was given to us by our ancestors.
+Vision:
+To make the students, a responsible care taker of the place where we live in by educating the need for conserving the natural resources.
+Objectives:
+To promote activities which make students understand the importance of biodiversity conservation for healthy well-being.
+To avoid plastic pollution on the Earth.
+To maintain cleanliness in and around the living place.
+To reduce electric power consumption with the motto: âA penny saved is a penny gained.â
+Office Bearers:
+Role
+Name
+Designation
+Chief Coordinator
+Dr. S. M. Uma
+HOD/CSE
+Staff Coordinator
+Mrs. G. Chandra Praba
+AP/CSE
+Student Members
+Mr. R. Vasudevan
+IV / CSE
+Ms. F. Shiny Roja
+IV / CSE
+Mr. E. Hariharan
+III / CSE
+Ms. J. Gayathri
+III / CSE
+Mr. K. Gopinath
+II / CSE
+Regulation
+View
+2021
+View
+2017
+Syllabus
+View
+2021
+View
+2017
+View
+2013
+Facebook
+Instagram
+Youtube
+IEEE Sponsored International Conference on April 9áµÊ° and 10áµÊ°.
+Click here

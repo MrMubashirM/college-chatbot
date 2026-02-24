@@ -1,0 +1,233 @@
+Kings College of Engineering (KCE)
+VLSI Design
+About Department
+The post graduate program in VLSI Design with an intake of 18 was started in the year 2008. Very Large Scale Integrated (VLSI) Circuits is a thrust area in modern technological world that has revolutionized the developments in Space technology, Defense, Communication, Instrumentation, Medical Electronics, Computing, Internet, and Modern automations in various industries. VLSI has attained maturity over last few decades during which the technology has shrunk from 10 micrometer to few nanometers by faithfully obeying Mooreâs Law which states that âthe technology shrinks to 1/4th the area in every 18 monthsâ. Thus the designer needs to put four times the circuitry in the same area of chip built 18 months back. This has posed challenges to the designers throughout the world and hence created into a systematic area of study.
+Vision & Mission
+Vision
+To produce technically competent, socially responsible Electronics and Communication Engineers with research insight.
+Mission
+Establishing learning environment and practicing advanced Electronics and Communication Engineering through effective teaching learning methodologies with ethical prospective.
+PEOs and POs
+View
+VLSI DEPT PEOs and POs
+Scope & Job Oppourtunities
+Having a look at the career prospects, there is bound to be a huge demand for competent engineers in electronic industry to cope the demand in technology. The engineers are involved in sustaining cutting edge technology to stay ahead in competition.
+An electronic engineer can find a job in Consumer electronics manufacturing organization, Telecommunication & IT industries, Health care equipment manufacturing, Mobile communication (2G,3G,4G,5G), Internet technologies, Power Electronics, and other industries like steel, petroleum and chemical industry, directing control and testing production process. They may also work with computers and electronic equipment in the medical, manufacturing, industrial control, telecommunications, aeronautical and military fields.
+Value Added Course
+Laboratories
+The VLSI laboratory is well equipped with the state-of-the-art industry standard EDA tools and hardware resources such as Xilinx 9.2i, Xilinx 14.3, Mentor Graphics HEP1, Spartan-3, Spartan-6, Altera Cyclone-2 and Virtex-5 FPGA. The objective of VLSI laboratory is to expose the UG, PG and Research Scholars to understand the concepts of Analogue and Digital IC Design and manufacturing process using the prescribed tools. The VLSI laboratory provides hands-on experience to students in the field of analog and digital circuit IC design to promote the research culture among the young budding Engineers.
+Electronic Circuits Lab
+Digital Electronics Lab
+Microprocessors & Microcontrollers Lab
+Linear Integrated Circuits Lab
+Communication Lab
+Digital Signal Processing Lab
+Networks Lab
+Optical & Microwave Lab
+VLSI Lab
+Embedded Lab
+Faculty Details
+Achievements
+Students' Achievements
+Academic Year 2019-20 (ODD)
+Student Name(s)
+Programme Title
+Organizer
+Date
+A. Siva Saranya
+R. Abarna
+R. Abinaya Karthika
+K. Agalya
+S. Agalya
+S. Dhanaharshini
+M. Harini
+M. Sripriya
+âBio Signal Processing, Biomaterials and Instrumentations of Medical Devices for Healthcare Applicationsâ
+University College Of Engineering, BIT Campus, Trichy
+07.08.2019 â 08.08.2019
+S. Dhanaharshini
+R. Dhivyadharshini
+C. Ranjitha
+Real Time Aspects with Embedded System
+K. S. K. College Of Engineering and Technology, Darasuram
+24.09.2019
+K. Priyadharshini
+V. K. Vithyasri
+TECHNOVANZA 2K
+University College Of Engineering, Ariyalur
+27.09.2019
+Acedemic Year 2018-19 (Odd)
+Student Name(s)
+Programme Title
+Organizer
+Date
+M. Ezhilarasi
+K. Rajalakshmi
+B. Melvin Charles
+Poet Competition
+Unavuporul Vazhangal Mattrum Nugaror, Padhukapputhurai
+06.07.2018
+R. Shanmugapriya
+R. Vinitha
+K. Priyadharshini
+U. K. Vithyasri
+C. Subashini
+T. Swetha
+Paper Presentation
+ISTE Student Chapter
+11.08.2018
+V. Sasirekha
+Paper Presentation
+Kongunadu College of Engineering, Namakkal
+18.08.2018
+S. Dhanasekaran
+E. Ilankhatir
+K. Priyadharshini
+U. K. Vithyasri
+S. Hemamalini
+M. Veeralakshmi
+A. Eswari
+U. Udhayarani
+M. Ezhilarasi
+Y. Sivanantham
+R. Vishwanath
+M. A. Yuvan Kishore
+K. Meera
+K. Akalya
+V. Sasirekha
+Intra Department Paper Presentation
+Kings College of Engineering
+10.09.2018
+J. Deepika
+R. Hemalatha
+R. Rajeswari
+K. Ramya
+S. Sheeba
+S. Ashiga
+M. Bhavadharini
+S. Durga
+P. Elakiya
+S. Haritha
+J. S. Gayathiri
+K. Gayathiri
+M. Janakiraman
+S. Kavibala
+K. Mahalakshmi
+P. Malathi
+B. Monisha Reeta
+V. Nandhini
+G. Nandhini
+C. Narendran
+N. Pavithra
+S. Pavithra
+K. Priyanka
+LabVIEW Graphical Development â Hands-on Training
+Kings College of Engineering
+12.09.2018
+J. Pragadeeswari
+S. Rangeela Subraja
+S. Santhiya
+R. Shanmuga Priya
+S. Shenbagaveni
+C. Subhasini
+T. Swetha
+J. Tamilselvan
+R. Vinitha
+S. Vimala
+K. Akalya
+T. Archana
+S. Dhanasekaran
+S. Dhanaharshini
+R. Dhivyadharshini
+K. Priyadharshini
+C. Ranjitha
+D. Ranjitha
+M. Rasika
+M. Sri Priya
+LabVIEW Graphical Development â Hands-on Training
+Kings College of Engineering
+12.09.2018
+M. Ajay
+M. Janaki Raman
+C. Narendran
+S. Hemamalini
+M. Veeralakshmi
+S. Saran Kumar
+S. Shenbagaveni
+T. Swetha
+S. Hemamalini
+Hands-on Training in Embedded System using ARM Cortex Series Controllers
+K.S.K. College of Engineering, Kumbakonam
+26.09.2018 â 27.09.2018
+Acedemic Year 2018-19 (Even)
+Student Name(s)
+Programme Title
+Organizer
+Date
+J. Dhivyadarshini, K. Divya, S. Durga, S. Haritha, J. Lavanya, G. Shrisuruthi, M. Krithica
+Addressing Techniques and Device in Wireless Networks
+K.S.K College of Engineering and Technology, Darasuram
+28-01-2019
+K. Divya, S. Durga, P. Elakiya, S. Haritha, G. Janani, M. Krithica
+Science and Technology Capacity Building for Industrial Needs
+Arasu Engineering College, Kumbakonam
+30-01-2019 to 01-02-2019
+S. Manisha, S. Lanjer Nisha, R. Priyatharcini, J. S. Gayathri, S. Kavibala, P. Malathi, S. Ashiga, G. Nandini, R. Mahalakshmi Bai, A. Monisha, J. Pragadeeswari, R. Punitha, P. Pavithra, P. Anbuselvi
+Processing of Bio Signals using MATLAB
+Karpagam Academy of Higher Education, Coimbatore
+01-02-2019
+G. Anitha, P. S. Kanishka Harini, B. Arthika, M. Dhanalakshmi, R. Ezhilarasi, K. Kavi Bharathi, G. Maheswari, G. Srivithya, S. Shanmuga Priya, S. Santhiya, S. Vainiya, U. Sara Mariyam, K. Priyanka, S. Preethi, C. Pavithra, S. Pavithra, P. Vinitha, S. Vimala, M. Nithya, S. Roslin Mary
+Simulation and Design of PCB using Proteus
+K. Ramakrishnan College of Technology, Trichy
+02-02-2019
+K. Rasika, K. Priyanka, G. Preethi, S. Shenbagaveni, B. Uthrasri, R. Vinitha, C. S. Niranjani
+Embedded Systems
+V.S.B Engineering College, Karur
+02-02-2019
+S. Durga, K. Nathiya, C. Narendran, P. Iyyappan, M. Janakiraman, M. Ajay, M. Bavadharini, K. Jaishree, L. Mowli, K. Gayathri, K. Maha Lakshmi, B. Monisha Reeta, V. Nandhini, D. Nivethitha, R. Vasanthi, T. Sivabharathi, S. Rangeela Subraja, J. Tamilselvan, K. Karthikeyan, S. Saran Kumar, M. Ratheeswaran, K. Subash, J. Elumalai, S. Surriya, B. Oviya, R. Shanmugapriya, C. Subashini, T. Swetha, M. Padmadharani, B. Pavithra, C. Suganya, S. Arundhavaselvan, P. Priya
+Raspberry Pi
+M. Kumarasamy College of Engineering, Karur
+08-02-2019
+K. Jaishree, L. Mowli
+Science Festival
+Science City, Chennai
+19-02-2019 to 22-02-2019
+Events
+Clubs and Activities
+The prime aim of this club is not only to provide a strong emphasis in Practical Electronics but also to provide fun in learning and to help students understand the seemingly incomprehensible electronic gadgets in the world today. It also assists students in developing their own devices in an innovative way.
+Objectives:
+To bring the students out of their syllabi-bound shells and expose them pragmatically to the field.
+To explain the concepts of electronics, circuit design, and hardware analysis and help them gain knowledge.
+To provide a platform for students to work on their innovative ideas.
+To provide resources and the technical know-how to realize and shape their projects.
+To expose students to the latest technological advancements in electronics.
+To organize discussions on emerging trends in electronics.
+Office Bearers:
+Role
+Name
+Designation
+Chief Co-ordinator
+Mrs. N. Mangaiyarkarasi
+HOD / ECE
+Staff Co-ordinator
+Mr. W. Newton David Raj
+AP / ECE
+Student Co-ordinator
+Ms. K. Rajalakshmi
+III â ECE
+Asst. Co-ordinator
+Mr. S. Thirumurugan
+II â ECE
+Regulation
+View
+2013
+Syllabus
+View
+2021
+View
+2017
+Facebook
+Instagram
+Youtube
+IEEE Sponsored International Conference on April 9th and 10th.
+Click here
